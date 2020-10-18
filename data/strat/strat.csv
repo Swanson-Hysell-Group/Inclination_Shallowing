@@ -16,7 +16,9 @@
 2.9,sandstone,F,,interbedded sandstone and siltstone
 8.9,sandstone,F,ripples,
 1.1,sandstone,F,ripples,
-5.6,sandstone,F,ripples; rip-ups,
+2.5,sandstone,F,ripples; rip-ups,
+0.7,tuff,igneous,,
+2.4,sandstone,F,ripples; rip-ups,
 0.2,sandstone,F,massive,
 2.7,sandstone,F,ripples; rip-ups,interbedded sandstone and shale
 3.2,sandstone,F,ripples; rip-ups,
@@ -24,6 +26,7 @@
 10.5,siltstone,VF,ripples;rip-ups,85%-90% silt
 10.3,siltstone,VF,trough x-bed,95% silt
 8.2,siltstone,F,rip-ups,70-75% silt
+0.03,tuff,igneous,,
 8.3,siltstone,VF,ripples; trough x-bedding,70% silt
 2.2,sandstone,M,x-bedding; rip-ups,
 3.9,siltstone,F,ripples; trough x-bedding,50% silt
