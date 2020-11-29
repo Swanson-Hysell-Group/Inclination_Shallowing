@@ -30,3 +30,22 @@ analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	citations	dip	
 	172.5	0.0	0.0	90.0	This study	-65.0			22.8		SO-CMD-NORTH	CF-49	CF
 	177.5	0.0	0.0	90.0	This study	-70.0			23.1		SO-CMD-NORTH	CF-50	CF
 	182.5	0.0	0.0	90.0	This study	-72.0			23.4		SO-CMD-NORTH	CF-51	CF
+	137.5	0.0	0.0	90.0	This study	-2.0			1.1		SO-CMD-NORTH	CF-1	CF
+	22.5	0.0	0.0	90.0	This study	-7.0			1.5		SO-CMD-NORTH	CF-2	CF
+	125.5	0.0	0.0	90.0	This study	-4.0			1.8		SO-CMD-NORTH	CF-3	CF
+	-37.5	0.0	0.0	90.0	This study	-2.0			2.2		SO-CMD-NORTH	CF-4	CF
+	10.5	0.0	0.0	90.0	This study	-4.0			2.6		SO-CMD-NORTH	CF-5	CF
+	-15.5	0.0	0.0	90.0	This study	-3.0			3.3		SO-CMD-NORTH	CF-6	CF
+	-5.5	0.0	0.0	90.0	This study	-8.0			3.7		SO-CMD-NORTH	CF-7	CF
+	98.5	0.0	0.0	90.0	This study	-65.0			6.2		SO-CMD-NORTH	CF-11	CF
+	102.5	0.0	0.0	90.0	This study	-67.0			6.7		SO-CMD-NORTH	CF-12	CF
+	95.5	0.0	0.0	90.0	This study	-79.0			8.0		SO-CMD-NORTH	CF-15	CF
+	-33.5	0.0	0.0	90.0	This study	-16.0			13.0		SO-CMD-NORTH	CF-24	CF
+	-86.0	0.0	0.0	90.0	This study	-5.0			15.0		SO-CMD-NORTH	CF-25	CF
+	-41.3	0.0	0.0	90.0	This study	-9.0			15.5		SO-CMD-NORTH	CF-26	CF
+	195.5	0.0	0.0	90.0	This study	-83.0			16.0		SO-CMD-NORTH	CF-27	CF
+	226.1	0.0	0.0	90.0	This study	-55.0			16.4		SO-CMD-NORTH	CF-28	CF
+	-15.5	0.0	0.0	90.0	This study	-8.0			17.2		SO-CMD-NORTH	CF-29	CF
+	-72.5	0.0	0.0	90.0	This study	-2.0			18.0		SO-CMD-NORTH	CF-31	CF
+	185.5	0.0	0.0	90.0	This study	-57.0			20.9		SO-CMD-NORTH	CF-43	CF
+	267.8	0.0	0.0	90.0	This study	-72.0			24.6		SO-CMD-NORTH	CF-52	CF
