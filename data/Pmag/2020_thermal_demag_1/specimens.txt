@@ -1,0 +1,32 @@
+tab	specimens
+analysts	citations	method_codes	sample	specimen	volume	weight
+	This study	LP-NOMAG	CF-8	CF-8a		
+	This study	LP-NOMAG	CF-9	CF-9a		
+	This study	LP-NOMAG	CF-10	CF-10a		
+	This study	LP-NOMAG	CF-13	CF-13a		
+	This study	LP-NOMAG	CF-14	CF-14a		
+	This study	LP-NOMAG	CF-16	CF-16a		
+	This study	LP-NOMAG	CF-17	CF-17a		
+	This study	LP-NOMAG	CF-18	CF-18a		
+	This study	LP-NOMAG	CF-19	CF-19a		
+	This study	LP-NOMAG	CF-20	CF-20a		
+	This study	LP-NOMAG	CF-21	CF-21a		
+	This study	LP-NOMAG	CF-22	CF-22a		
+	This study	LP-NOMAG	CF-23	CF-23a		
+	This study	LP-NOMAG	CF-30	CF-30a		
+	This study	LP-NOMAG	CF-33	CF-33a		
+	This study	LP-NOMAG	CF-35	CF-35a		
+	This study	LP-NOMAG	CF-36	CF-36a		
+	This study	LP-NOMAG	CF-37	CF-37a		
+	This study	LP-NOMAG	CF-38	CF-38a		
+	This study	LP-NOMAG	CF-39	CF-39a		
+	This study	LP-NOMAG	CF-40	CF-40a		
+	This study	LP-NOMAG	CF-41	CF-41a		
+	This study	LP-NOMAG	CF-44	CF-44a		
+	This study	LP-NOMAG	CF-45	CF-45a		
+	This study	LP-NOMAG	CF-46	CF-46a		
+	This study	LP-NOMAG	CF-47	CF-47a		
+	This study	LP-NOMAG	CF-48	CF-48a		
+	This study	LP-NOMAG	CF-49	CF-49a		
+	This study	LP-NOMAG	CF-50	CF-50a		
+	This study	LP-NOMAG	CF-51	CF-51a		
