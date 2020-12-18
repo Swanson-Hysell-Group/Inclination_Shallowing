@@ -248,10 +248,10 @@ CF-35a	CF-35a_LP-DIR-T	CF-35		mt	302.3	27.9	3	12	0	6.0	8.7	913	773	K		hargrave 2
 CF-35a	CF-35a_LP-DIR-T	CF-35		lt	355.8	66.2	3	3	100	25.5	3.7	473	273	K		hargrave 2020-11-24 22:05:41	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Cutface Creek	CF	CF-35a
 CF-35a	CF-35a_LP-DIR-T	CF-35		ht	298.0	24.0	3	9	100	5.8	9.4	953	933	K		hargrave 2020-11-24 22:05:41	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Cutface Creek	CF	CF-35a
 CF-35a	CF-35a_LP-DIR-T	CF-35		mt	127.9	1.6	3	12	-1	6.0	8.7	913	773	K		hargrave 2020-11-24 22:05:41	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Cutface Creek	CF	CF-35a
-CF-36a	CF-36a_LP-DIR-T	CF-36		mt	307.2	40.9	3	8	0	12.7	5.7	873	723	K		hargrave 2020-11-24 22:07:23	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Cutface Creek	CF	CF-36a
+CF-36a	CF-36a_LP-DIR-T	CF-36		mt	306.1	41.4	3	9	0	14.4	7.5	893	773	K		hargrave 2020-11-24 22:07:23	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Cutface Creek	CF	CF-36a
 CF-36a	CF-36a_LP-DIR-T	CF-36		mt	138.8	-11.4	3	9	-1	14.4	7.5	893	773	K		hargrave 2020-11-24 22:07:23	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Cutface Creek	CF	CF-36a
 CF-36a	CF-36a_LP-DIR-T	CF-36		mt	300.5	48.2	3	8	100	12.7	5.7	873	723	K		hargrave 2020-11-24 22:07:23	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Cutface Creek	CF	CF-36a
-CF-36a	CF-36a_LP-DIR-T	CF-36		ht	294.9	21.5	3	7	0	0.0	3.1	954	947	K		hargrave 2020-11-24 22:07:23	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Cutface Creek	CF	CF-36a
+CF-36a	CF-36a_LP-DIR-T	CF-36		ht	295.4	19.9	3	11	0	1.7	7.0	954	933	K		hargrave 2020-11-24 22:07:23	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Cutface Creek	CF	CF-36a
 CF-36a	CF-36a_LP-DIR-T	CF-36		lt	25.0	65.6	3	3	0	42.6	6.5	473	273	K		hargrave 2020-11-24 22:07:23	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Cutface Creek	CF	CF-36a
 CF-36a	CF-36a_LP-DIR-T	CF-36		lt	44.4	72.3	3	3	100	42.6	6.5	473	273	K		hargrave 2020-11-24 22:07:23	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Cutface Creek	CF	CF-36a
 CF-36a	CF-36a_LP-DIR-T	CF-36		ht	291.2	27.5	3	7	100	0.0	3.1	954	947	K		hargrave 2020-11-24 22:07:23	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Cutface Creek	CF	CF-36a
@@ -270,14 +270,14 @@ CF-38a	CF-38a_LP-DIR-T	CF-38		mt	131.2	-6.6	2	11	-1	7.5	9.4	893	723	K		hargrave 
 CF-38a	CF-38a_LP-DIR-T	CF-38		lt	191.6	0.5	2	3	-1	51.3	8.5	473	273	K		hargrave 2020-11-24 22:10:40	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Cutface Creek	CF	CF-38a
 CF-38a	CF-38a_LP-DIR-T	CF-38		mt	290.8	36.6	2	11	100	7.5	9.4	893	723	K		hargrave 2020-11-24 22:10:40	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Cutface Creek	CF	CF-38a
 CF-39a		CF-39																	This study	LP-NOMAG				Cutface Creek	CF	
-CF-39a	CF-39a_LP-DIR-T	CF-39		mt	287.7	17.8	3	12	0	2.3	9.8	913	723	K		hargrave 2020-11-24 22:14:16	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Cutface Creek	CF	CF-39a
+CF-39a	CF-39a_LP-DIR-T	CF-39		mt	286.1	14.6	3	9	0	4.1	10.2	883	723	K		hargrave 2020-11-24 22:14:16	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Cutface Creek	CF	CF-39a
 CF-39a	CF-39a_LP-DIR-T	CF-39		ht	286.4	18.3	3	6	100	0.0	2.1	954	949	K		hargrave 2020-11-24 22:14:16	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-TILT	g			Cutface Creek	CF	CF-39a
 CF-39a	CF-39a_LP-DIR-T	CF-39		lt	357.3	55.6	3	3	0	49.5	6.9	473	273	K		hargrave 2020-11-24 22:14:16	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Cutface Creek	CF	CF-39a
 CF-39a	CF-39a_LP-DIR-T	CF-39		mt	284.5	22.7	3	12	100	2.3	9.8	913	723	K		hargrave 2020-11-24 22:14:16	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Cutface Creek	CF	CF-39a
 CF-39a	CF-39a_LP-DIR-T	CF-39		lt	177.0	-16.3	3	3	-1	49.5	6.9	473	273	K		hargrave 2020-11-24 22:14:16	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Cutface Creek	CF	CF-39a
 CF-39a	CF-39a_LP-DIR-T	CF-39		mt	108.2	-7.9	3	9	-1	4.1	10.2	883	723	K		hargrave 2020-11-24 22:14:16	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Cutface Creek	CF	CF-39a
 CF-39a	CF-39a_LP-DIR-T	CF-39		ht	106.1	-11.5	3	12	-1	2.0	7.3	954	933	K		hargrave 2020-11-24 22:14:16	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Cutface Creek	CF	CF-39a
-CF-39a	CF-39a_LP-DIR-T	CF-39		ht	288.8	13.1	3	6	0	0.0	2.1	954	949	K		hargrave 2020-11-24 22:14:16	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL-A:DA-DIR-GEO	g			Cutface Creek	CF	CF-39a
+CF-39a	CF-39a_LP-DIR-T	CF-39		ht	288.7	11.3	3	12	0	2.0	7.3	954	933	K		hargrave 2020-11-24 22:14:16	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Cutface Creek	CF	CF-39a
 CF-39a	CF-39a_LP-DIR-T	CF-39		lt	1.2	65.3	3	3	100	49.5	6.9	473	273	K		hargrave 2020-11-24 22:14:16	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-TILT	g			Cutface Creek	CF	CF-39a
 CF-3a	CF-3a_LP-DIR-T	CF-3		mt	287.7	35.1	3	9	0	6.6	9.8	883	773	K		hargrave 2020-11-24 21:38:59	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR-GEO	g			Cutface Creek	CF	CF-3a
 CF-3a	CF-3a_LP-DIR-T	CF-3		lt	221.2	63.9	3	3	-1	35.4	2.0	473	273	K		hargrave 2020-11-24 21:38:59	pmagpy-4.2.50: demag_gui	u	This study	LP-DIR-T:DE-BFL:DA-DIR	g			Cutface Creek	CF	CF-3a
