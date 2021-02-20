@@ -1,94 +1,178 @@
 tab	specimens
 specimen	sample	analysts	citations	method_codes	volume	weight
-CF-1a	CF-1	James Pierce	This study	LP-NOMAG		
-CF-2a	CF-2	James Pierce	This study	LP-NOMAG		
-CF-3a	CF-3	James Pierce	This study	LP-NOMAG		
-CF-4a	CF-4	James Pierce	This study	LP-NOMAG		
-CF-5a	CF-5	James Pierce	This study	LP-NOMAG		
-CF-6a	CF-6	James Pierce	This study	LP-NOMAG		
-CF-7a	CF-7	James Pierce	This study	LP-NOMAG		
-CF-8a	CF-8	James Pierce	This study	LP-NOMAG		
-CF-9a	CF-9	James Pierce	This study	LP-NOMAG		
-CF-10a	CF-10	James Pierce	This study	LP-NOMAG		
-CF-11a	CF-11	James Pierce	This study	LP-NOMAG		
-CF-12a	CF-12	James Pierce	This study	LP-NOMAG		
-CF-13a	CF-13	James Pierce	This study	LP-NOMAG		
-CF-14a	CF-14	James Pierce	This study	LP-NOMAG		
-CF-15a	CF-15	James Pierce	This study	LP-NOMAG		
-CF-16a	CF-16	James Pierce	This study	LP-NOMAG		
-CF-17a	CF-17	James Pierce	This study	LP-NOMAG		
-CF-18a	CF-18	James Pierce	This study	LP-NOMAG		
-CF-19a	CF-19	James Pierce	This study	LP-NOMAG		
-CF-20a	CF-20	James Pierce	This study	LP-NOMAG		
-CF-21a	CF-21	James Pierce	This study	LP-NOMAG		
-CF-22a	CF-22	James Pierce	This study	LP-NOMAG		
-CF-23a	CF-23	James Pierce	This study	LP-NOMAG		
-CF-24a	CF-24	James Pierce	This study	LP-NOMAG		
-CF-25a	CF-25	James Pierce	This study	LP-NOMAG		
-CF-26a	CF-26	James Pierce	This study	LP-NOMAG		
-CF-27a	CF-27	James Pierce	This study	LP-NOMAG		
-CF-28a	CF-28	James Pierce	This study	LP-NOMAG		
-CF-29a	CF-29	James Pierce	This study	LP-NOMAG		
-CF-30a	CF-30	James Pierce	This study	LP-NOMAG		
-CF-31a	CF-31	James Pierce	This study	LP-NOMAG		
-CF-33a	CF-33	James Pierce	This study	LP-NOMAG		
-CF-35a	CF-35	James Pierce	This study	LP-NOMAG		
-CF-36a	CF-36	James Pierce	This study	LP-NOMAG		
-CF-37a	CF-37	James Pierce	This study	LP-NOMAG		
-CF-38a	CF-38	James Pierce	This study	LP-NOMAG		
-CF-39a	CF-39	James Pierce	This study	LP-NOMAG		
-CF-40a	CF-40	James Pierce	This study	LP-NOMAG		
-CF-41a	CF-41	James Pierce	This study	LP-NOMAG		
-CF-43a	CF-43	James Pierce	This study	LP-NOMAG		
-CF-44a	CF-44	James Pierce	This study	LP-NOMAG		
-CF-45a	CF-45	James Pierce	This study	LP-NOMAG		
-CF-46a	CF-46	James Pierce	This study	LP-NOMAG		
-CF-47a	CF-47	James Pierce	This study	LP-NOMAG		
-CF-48a	CF-48	James Pierce	This study	LP-NOMAG		
-CF-49a	CF-49	James Pierce	This study	LP-NOMAG		
-CF-50a	CF-50	James Pierce	This study	LP-NOMAG		
-CF-51a	CF-51	James Pierce	This study	LP-NOMAG		
-CF-52a	CF-52	James Pierce	This study	LP-NOMAG		
-CF-53a	CF-53	James Pierce	This study	LP-NOMAG		
-CF-54a	CF-54	James Pierce	This study	LP-NOMAG		
-CF-56a	CF-56	James Pierce	This study	LP-NOMAG		
-CF-57a	CF-57	James Pierce	This study	LP-NOMAG		
-CF-58a	CF-58	James Pierce	This study	LP-NOMAG		
-CF-59a	CF-59	James Pierce	This study	LP-NOMAG		
-CF-60a	CF-60	James Pierce	This study	LP-NOMAG		
-CF-61a	CF-61	James Pierce	This study	LP-NOMAG		
-CF-62a	CF-62	James Pierce	This study	LP-NOMAG		
-CF-63a	CF-63	James Pierce	This study	LP-NOMAG		
-CF-64a	CF-64	James Pierce	This study	LP-NOMAG		
-CF-65a	CF-65	James Pierce	This study	LP-NOMAG		
-CF-66a	CF-66	James Pierce	This study	LP-NOMAG		
-CF-67a	CF-67	James Pierce	This study	LP-NOMAG		
-CF-68a	CF-68	James Pierce	This study	LP-NOMAG		
-CF-69a	CF-69	James Pierce	This study	LP-NOMAG		
-CF-70a	CF-70	James Pierce	This study	LP-NOMAG		
-CF-71a	CF-71	James Pierce	This study	LP-NOMAG		
-CF-72a	CF-72	James Pierce	This study	LP-NOMAG		
-CF-73a	CF-73	James Pierce	This study	LP-NOMAG		
-CF-74a	CF-74	James Pierce	This study	LP-NOMAG		
-CF-75a	CF-75	James Pierce	This study	LP-NOMAG		
-CF-76a	CF-76	James Pierce	This study	LP-NOMAG		
-CF-77a	CF-77	James Pierce	This study	LP-NOMAG		
-CF-78a	CF-78	James Pierce	This study	LP-NOMAG		
-CF-79a	CF-79	James Pierce	This study	LP-NOMAG		
-CF-80a	CF-80	James Pierce	This study	LP-NOMAG		
-CF-81a	CF-81	James Pierce	This study	LP-NOMAG		
-CF-82a	CF-82	James Pierce	This study	LP-NOMAG		
-CF-84a	CF-84	James Pierce	This study	LP-NOMAG		
-CF-85a	CF-85	James Pierce	This study	LP-NOMAG		
-CF-86a	CF-86	James Pierce	This study	LP-NOMAG		
-CF-87a	CF-87	James Pierce	This study	LP-NOMAG		
-CF-88a	CF-88	James Pierce	This study	LP-NOMAG		
-CF-89a	CF-89	James Pierce	This study	LP-NOMAG		
-CF-90a	CF-90	James Pierce	This study	LP-NOMAG		
-CF-91a	CF-91	James Pierce	This study	LP-NOMAG		
-CF-92a	CF-92	James Pierce	This study	LP-NOMAG		
-CF-93a	CF-93	James Pierce	This study	LP-NOMAG		
-CF-94a	CF-94	James Pierce	This study	LP-NOMAG		
-CF-96a	CF-96	James Pierce	This study	LP-NOMAG		
-CF-97a	CF-97	James Pierce	This study	LP-NOMAG		
-CF-98a	CF-98	James Pierce	This study	LP-NOMAG		
+CF-1a	CF-1a		This study	LP-NOMAG		
+CF-2a	CF-2a		This study	LP-NOMAG		
+CF-3a	CF-3a		This study	LP-NOMAG		
+CF-4a	CF-4a		This study	LP-NOMAG		
+CF-5a	CF-5a		This study	LP-NOMAG		
+CF-6a	CF-6a		This study	LP-NOMAG		
+CF-7a	CF-7a		This study	LP-NOMAG		
+CF-8a	CF-8a		This study	LP-NOMAG		
+CF-9a	CF-9a		This study	LP-NOMAG		
+CF-10a	CF-10a		This study	LP-NOMAG		
+CF-11a	CF-11a		This study	LP-NOMAG		
+CF-12a	CF-12a		This study	LP-NOMAG		
+CF-13a	CF-13a		This study	LP-NOMAG		
+CF-14a	CF-14a		This study	LP-NOMAG		
+CF-15a	CF-15a		This study	LP-NOMAG		
+CF-16a	CF-16a		This study	LP-NOMAG		
+CF-17a	CF-17a		This study	LP-NOMAG		
+CF-18a	CF-18a		This study	LP-NOMAG		
+CF-19a	CF-19a		This study	LP-NOMAG		
+CF-20a	CF-20a		This study	LP-NOMAG		
+CF-21a	CF-21a		This study	LP-NOMAG		
+CF-22a	CF-22a		This study	LP-NOMAG		
+CF-23a	CF-23a		This study	LP-NOMAG		
+CF-24a	CF-24a		This study	LP-NOMAG		
+CF-25a	CF-25a		This study	LP-NOMAG		
+CF-26a	CF-26a		This study	LP-NOMAG		
+CF-27a	CF-27a		This study	LP-NOMAG		
+CF-28a	CF-28a		This study	LP-NOMAG		
+CF-29a	CF-29a		This study	LP-NOMAG		
+CF-30a	CF-30a		This study	LP-NOMAG		
+CF-31a	CF-31a		This study	LP-NOMAG		
+CF-33a	CF-33a		This study	LP-NOMAG		
+CF-35a	CF-35a		This study	LP-NOMAG		
+CF-36a	CF-36a		This study	LP-NOMAG		
+CF-37a	CF-37a		This study	LP-NOMAG		
+CF-38a	CF-38a		This study	LP-NOMAG		
+CF-39a	CF-39a		This study	LP-NOMAG		
+CF-40a	CF-40a		This study	LP-NOMAG		
+CF-41a	CF-41a		This study	LP-NOMAG		
+CF-43a	CF-43a		This study	LP-NOMAG		
+CF-44a	CF-44a		This study	LP-NOMAG		
+CF-45a	CF-45a		This study	LP-NOMAG		
+CF-46a	CF-46a		This study	LP-NOMAG		
+CF-47a	CF-47a		This study	LP-NOMAG		
+CF-48a	CF-48a		This study	LP-NOMAG		
+CF-49a	CF-49a		This study	LP-NOMAG		
+CF-50a	CF-50a		This study	LP-NOMAG		
+CF-51a	CF-51a		This study	LP-NOMAG		
+CF-52a	CF-52a		This study	LP-NOMAG		
+CF-53a	CF-53a		This study	LP-NOMAG		
+CF-54a	CF-54a		This study	LP-NOMAG		
+CF-56a	CF-56a		This study	LP-NOMAG		
+CF-57a	CF-57a		This study	LP-NOMAG		
+CF-58a	CF-58a		This study	LP-NOMAG		
+CF-59a	CF-59a		This study	LP-NOMAG		
+CF-60a	CF-60a		This study	LP-NOMAG		
+CF-61a	CF-61a		This study	LP-NOMAG		
+CF-62a	CF-62a		This study	LP-NOMAG		
+CF-63a	CF-63a		This study	LP-NOMAG		
+CF-64a	CF-64a		This study	LP-NOMAG		
+CF-65a	CF-65a		This study	LP-NOMAG		
+CF-66a	CF-66a		This study	LP-NOMAG		
+CF-67a	CF-67a		This study	LP-NOMAG		
+CF-68a	CF-68a		This study	LP-NOMAG		
+CF-69a	CF-69a		This study	LP-NOMAG		
+CF-70a	CF-70a		This study	LP-NOMAG		
+CF-71a	CF-71a		This study	LP-NOMAG		
+CF-72a	CF-72a		This study	LP-NOMAG		
+CF-73a	CF-73a		This study	LP-NOMAG		
+CF-74a	CF-74a		This study	LP-NOMAG		
+CF-75a	CF-75a		This study	LP-NOMAG		
+CF-76a	CF-76a		This study	LP-NOMAG		
+CF-77a	CF-77a		This study	LP-NOMAG		
+CF-78a	CF-78a		This study	LP-NOMAG		
+CF-79a	CF-79a		This study	LP-NOMAG		
+CF-80a	CF-80a		This study	LP-NOMAG		
+CF-81a	CF-81a		This study	LP-NOMAG		
+CF-82a	CF-82a		This study	LP-NOMAG		
+CF-84a	CF-84a		This study	LP-NOMAG		
+CF-85a	CF-85a		This study	LP-NOMAG		
+CF-86a	CF-86a		This study	LP-NOMAG		
+CF-87a	CF-87a		This study	LP-NOMAG		
+CF-88a	CF-88a		This study	LP-NOMAG		
+CF-89a	CF-89a		This study	LP-NOMAG		
+CF-90a	CF-90a		This study	LP-NOMAG		
+CF-91a	CF-91a		This study	LP-NOMAG		
+CF-92a	CF-92a		This study	LP-NOMAG		
+CF-93a	CF-93a		This study	LP-NOMAG		
+CF-94a	CF-94a		This study	LP-NOMAG		
+CF-96a	CF-96a		This study	LP-NOMAG		
+CF-97a	CF-97a		This study	LP-NOMAG		
+CF-98a	CF-98a		This study	LP-NOMAG		
+CF-99a	CF-99a		This study	LP-NOMAG		
+CF-101a	CF-101a		This study	LP-NOMAG		
+CF-102a	CF-102a		This study	LP-NOMAG		
+CF-103a	CF-103a		This study	LP-NOMAG		
+CF-105a	CF-105a		This study	LP-NOMAG		
+CF-106a	CF-106a		This study	LP-NOMAG		
+CF-107a	CF-107a		This study	LP-NOMAG		
+CF-108a	CF-108a		This study	LP-NOMAG		
+CF-109a	CF-109a		This study	LP-NOMAG		
+CF-110a	CF-110a		This study	LP-NOMAG		
+CF-111a	CF-111a		This study	LP-NOMAG		
+CF-112a	CF-112a		This study	LP-NOMAG		
+CF-113a	CF-113a		This study	LP-NOMAG		
+CF-114a	CF-114a		This study	LP-NOMAG		
+CF-115a	CF-115a		This study	LP-NOMAG		
+CF-116a	CF-116a		This study	LP-NOMAG		
+CF-117a	CF-117a		This study	LP-NOMAG		
+CF-118a	CF-118a		This study	LP-NOMAG		
+CF-119a	CF-119a		This study	LP-NOMAG		
+CF-120a	CF-120a		This study	LP-NOMAG		
+CF-121a	CF-121a		This study	LP-NOMAG		
+CF-122a	CF-122a		This study	LP-NOMAG		
+CF-123a	CF-123a		This study	LP-NOMAG		
+CF-124a	CF-124a		This study	LP-NOMAG		
+CF-125a	CF-125a		This study	LP-NOMAG		
+CF-126a	CF-126a		This study	LP-NOMAG		
+CF-127a	CF-127a		This study	LP-NOMAG		
+CF-128a	CF-128a		This study	LP-NOMAG		
+CF-129a	CF-129a		This study	LP-NOMAG		
+CF-130a	CF-130a		This study	LP-NOMAG		
+CF-131a	CF-131a		This study	LP-NOMAG		
+CF-132a	CF-132a		This study	LP-NOMAG		
+CF-133a	CF-133a		This study	LP-NOMAG		
+CF-134a	CF-134a		This study	LP-NOMAG		
+CF-135a	CF-135a		This study	LP-NOMAG		
+CF-136a	CF-136a		This study	LP-NOMAG		
+CF-137a	CF-137a		This study	LP-NOMAG		
+CF-138a	CF-138a		This study	LP-NOMAG		
+CF-139a	CF-139a		This study	LP-NOMAG		
+CF-140a	CF-140a		This study	LP-NOMAG		
+CF-141a	CF-141a		This study	LP-NOMAG		
+CF-142a	CF-142a		This study	LP-NOMAG		
+CF-143a	CF-143a		This study	LP-NOMAG		
+CF-144a	CF-144a		This study	LP-NOMAG		
+CF-145a	CF-145a		This study	LP-NOMAG		
+CF-146a	CF-146a		This study	LP-NOMAG		
+CF-147a	CF-147a		This study	LP-NOMAG		
+CF-148a	CF-148a		This study	LP-NOMAG		
+CF-149a	CF-149a		This study	LP-NOMAG		
+CF-150a	CF-150a		This study	LP-NOMAG		
+CF-151a	CF-151a		This study	LP-NOMAG		
+CF-152a	CF-152a		This study	LP-NOMAG		
+CF-153a	CF-153a		This study	LP-NOMAG		
+CF-154a	CF-154a		This study	LP-NOMAG		
+CF-155a	CF-155a		This study	LP-NOMAG		
+CF-156a	CF-156a		This study	LP-NOMAG		
+CF-157a	CF-157a		This study	LP-NOMAG		
+CF-158a	CF-158a		This study	LP-NOMAG		
+CF-159a	CF-159a		This study	LP-NOMAG		
+CF-160a	CF-160a		This study	LP-NOMAG		
+CF-161a	CF-161a		This study	LP-NOMAG		
+CF-162a	CF-162a		This study	LP-NOMAG		
+CF-163a	CF-163a		This study	LP-NOMAG		
+CF-164a	CF-164a		This study	LP-NOMAG		
+CF-165a	CF-165a		This study	LP-NOMAG		
+CF-166a	CF-166a		This study	LP-NOMAG		
+CF-167a	CF-167a		This study	LP-NOMAG		
+CF-168a	CF-168a		This study	LP-NOMAG		
+CF-169a	CF-169a		This study	LP-NOMAG		
+CF-170a	CF-170a		This study	LP-NOMAG		
+CF-172a	CF-172a		This study	LP-NOMAG		
+CF-173a	CF-173a		This study	LP-NOMAG		
+CF-174a	CF-174a		This study	LP-NOMAG		
+CF-175a	CF-175a		This study	LP-NOMAG		
+CF-176a	CF-176a		This study	LP-NOMAG		
+CF-177a	CF-177a		This study	LP-NOMAG		
+CF-178a	CF-178a		This study	LP-NOMAG		
+CF-179a	CF-179a		This study	LP-NOMAG		
+CF-180a	CF-180a		This study	LP-NOMAG		
+CF-181a	CF-181a		This study	LP-NOMAG		
+CF-182a	CF-182a		This study	LP-NOMAG		
+CF-183a	CF-183a		This study	LP-NOMAG		
+CF-185a	CF-185a		This study	LP-NOMAG		
+CF-186a	CF-186a		This study	LP-NOMAG		

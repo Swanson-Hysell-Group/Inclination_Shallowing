@@ -1,3 +1,4 @@
 tab	sites
 analysts	citations	lat	location	lon	site
 James Pierce	This study	47.7	Cutface Creek	-90.4	CF
+	This study	47.7	Cut Face Creek	-90.4	CF

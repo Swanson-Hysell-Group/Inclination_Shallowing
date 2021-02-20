@@ -1,0 +1,197 @@
+2020-12-20 19:13:41: CF-100a: NRM  0 (Up): Red
+2020-12-20 19:42:00: CF-117a: NRM  0 (Up): Red
+2020-12-20 19:51:35: CF-121a: NRM  0 (Up): Red
+2020-12-20 20:03:11: CF-128a: NRM  0 (Up): Red
+2020-12-20 22:16:09: CF-133a: NRM  0 (Up): Red
+2020-12-22 17:59:06: CF-136a: TT  100 (Up): Unacceptable slop on up/down motor moving from  -35 to -44194 at speed  80000000.    Target position: -44194  Current position: -4416    Execution has been paused. Please check machine.
+2020-12-22 18:30:51: CF-136a: TT  100 (Up): Hargraves Magnetometer is now operating at code Blue  
+2020-12-22 18:31:50: CF-136a: TT  100 (Up): Red
+2020-12-22 18:35:06: CF-138a: TT  100 (Up): Red
+2020-12-29 14:41:09: CF-100a: TT  200 (Up): Red
+2020-12-29 15:42:31: CF-136a: TT  200 (Up): Unacceptable slop on up/down motor moving from  -36 to -44195 at speed  80000000.    Target position: -44195  Current position: -4432    Execution has been paused. Please check machine.
+2020-12-29 16:10:20: CF-136a: TT  200 (Up): Hargraves Magnetometer is now operating at code Blue  
+2020-12-29 16:10:38: CF-136a: TT  200 (Up): Homed to top but did not hit switch.
+2020-12-29 16:11:31: CF-136a: TT  200 (Up): Hargraves Magnetometer is now operating at code Blue  
+2020-12-29 16:34:46: CF-101a: TT  200 (Dn): Red
+2020-12-29 16:47:49: CF-110a: TT  200 (Dn): Red
+2020-12-29 16:58:06: CF-118a: TT  200 (Dn): Red
+2020-12-29 17:17:18: CF-130a: TT  200 (Dn): Red
+2020-12-29 17:23:24: CF-134a: TT  200 (Dn): Red
+2020-12-30 11:13:06: CF-116a: TT  300 (Up): Red
+2020-12-30 12:35:44: CF-110a: TT  300 (Dn): Red
+2020-12-30 13:12:31: CF-130a: TT  300 (Dn): Red
+2020-12-30 16:31:56: CF-135a: TT  300 (Up): Unacceptable slop on up/down motor moving from  -35 to -44197 at speed  80000000.    Target position: -44197  Current position: -25809    Execution has been paused. Please check machine.
+2020-12-30 16:35:14: CF-135a: TT  300 (Up): Hargraves Magnetometer is now operating at code Blue  
+2020-12-30 16:36:21: CF-135a: TT  300 (Up): Red
+2020-12-30 16:36:23: CF-135a: TT  300 (Up): Red
+2021-01-01 15:20:22: CF-102a: TT  400 (Up): Red
+2021-01-01 16:19:09: CF-135a: TT  400 (Up): Unacceptable slop on up/down motor moving from  -36 to -44203 at speed  80000000.    Target position: -44203  Current position: -4381    Execution has been paused. Please check machine.
+2021-01-01 16:40:21: CF-135a: TT  400 (Up): Hargraves Magnetometer is now operating at code Blue  
+2021-01-01 16:42:09: CF-136a: TT  400 (Up): Unacceptable slop on up/down motor moving from  -39 to -44203 at speed  80000000.    Target position: -44203  Current position: -4147    Execution has been paused. Please check machine.
+2021-01-01 16:43:13: CF-136a: TT  400 (Up): Hargraves Magnetometer is now operating at code Blue  
+2021-01-01 16:44:54: CF-136a: TT  400 (Up): Red
+2021-01-01 17:08:46: CF-103a: TT  400 (Dn): Red
+2021-01-01 17:15:13: CF-108a: TT  400 (Dn): Red
+2021-01-01 17:20:51: CF-110a: TT  400 (Dn): Red
+2021-01-01 17:37:19: CF-121a: TT  400 (Dn): Unacceptable slop on up/down motor moving from  -37 to -43986 at speed  80000000.    Target position: -43986  Current position: -3595    Execution has been paused. Please check machine.
+2021-01-01 17:44:05: CF-121a: TT  400 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2021-01-01 18:05:00: CF-134a: TT  400 (Dn): Red
+2021-01-01 18:16:46: CF-140a: TT  400 (Dn): Red
+2021-01-01 18:53:13: CF-129a: TT  400 (Up): Red
+2021-01-01 19:36:45: CF-129a: NRM  400 (Up): Red
+2021-01-02 10:19:52: CF-100a: TT  450 (Up): Red
+2021-01-02 10:29:09: CF-106a: TT  450 (Up): Red
+2021-01-02 10:45:35: CF-115a: TT  450 (Up): Red
+2021-01-02 11:03:40: CF-125a: TT  450 (Up): Red
+2021-01-02 11:19:48: CF-133a: TT  450 (Up): Red
+2021-01-02 11:34:52: CF-139a: TT  450 (Up): Red
+2021-01-02 11:50:25: CF-99a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 11:50:27: CF-99a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 11:52:00: CF-100a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 11:52:02: CF-100a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 11:53:32: CF-101a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 11:53:33: CF-101a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 11:55:01: CF-102a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 11:55:02: CF-102a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 11:56:26: CF-103a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 11:56:28: CF-103a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 11:57:53: CF-104a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 11:57:54: CF-104a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 11:59:21: CF-105a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 11:59:22: CF-105a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:01:38: CF-106a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:01:40: CF-106a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:03:11: CF-107a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:03:12: CF-107a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:04:46: CF-108a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:04:47: CF-108a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:09:16: CF-109a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:09:18: CF-109a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:10:53: CF-110a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:10:54: CF-110a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:12:26: CF-111a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:12:27: CF-111a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:13:55: CF-112a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:13:57: CF-112a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:15:26: CF-113a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:15:28: CF-113a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:17:01: CF-114a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:17:03: CF-114a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:18:36: CF-115a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:18:38: CF-115a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:20:07: CF-116a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:20:09: CF-116a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:21:37: CF-117a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:21:39: CF-117a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:23:10: CF-118a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:23:12: CF-118a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:27:38: CF-119a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:27:40: CF-119a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:29:13: CF-120a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:29:15: CF-120a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:30:46: CF-121a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:30:48: CF-121a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:32:20: CF-122a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:32:22: CF-122a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:33:59: CF-123a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:34:00: CF-123a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:35:39: CF-124a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:35:41: CF-124a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:37:19: CF-125a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:37:21: CF-125a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:38:53: CF-126a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:38:55: CF-126a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:40:25: CF-127a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:40:27: CF-127a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:42:01: CF-128a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:42:02: CF-128a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:46:32: CF-129a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:46:34: CF-129a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:48:08: CF-130a: TT  450 (Dn): Red
+2021-01-02 12:48:58: CF-130a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:49:00: CF-130a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:50:36: CF-131a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:50:37: CF-131a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:52:17: CF-132a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:52:19: CF-132a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:54:01: CF-133a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:54:03: CF-133a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:55:48: CF-134a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:55:50: CF-134a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:57:35: CF-135a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:57:37: CF-135a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:59:19: CF-136a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 12:59:20: CF-136a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 13:00:59: CF-137a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 13:01:01: CF-137a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 13:02:36: CF-138a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 13:02:38: CF-138a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 13:07:04: CF-139a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 13:07:06: CF-139a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 13:08:44: CF-140a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 13:08:46: CF-140a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 13:10:29: CF-141a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 13:10:31: CF-141a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 13:12:17: CF-142a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 13:12:19: CF-142a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 13:29:13: CF-102a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 13:29:15: CF-102a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 13:30:47: CF-106a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 13:30:49: CF-106a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 13:32:30: CF-135a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 13:32:32: CF-135a: TT  450 (Dn): Error writing backup file c:\Dropbox\Hargraves_Data\Keweenawan\Cutface\\2020_thermal_demag_3
+2021-01-02 17:37:54: CF-100a: TT  500 (Up): Red
+2021-01-02 17:47:14: CF-106a: TT  500 (Up): Red
+2021-01-02 18:04:34: CF-115a: TT  500 (Up): Red
+2021-01-02 18:40:47: CF-135a: TT  500 (Up): Unacceptable slop on up/down motor moving from  -35 to -44203 at speed  80000000.    Target position: -44203  Current position: -4267    Execution has been paused. Please check machine.
+2021-01-02 18:42:49: CF-135a: TT  500 (Up): Hargraves Magnetometer is now operating at code Blue  
+2021-01-02 18:44:46: CF-136a: TT  500 (Up): Unacceptable slop on up/down motor moving from  -41 to -44205 at speed  80000000.    Target position: -44205  Current position: -4148    Execution has been paused. Please check machine.
+2021-01-02 18:49:58: CF-136a: TT  500 (Up): Hargraves Magnetometer is now operating at code Blue  
+2021-01-02 19:20:19: CF-108a: TT  500 (Dn): Red
+2021-01-02 19:26:00: CF-110a: TT  500 (Dn): Red
+2021-01-02 19:37:30: CF-118a: TT  500 (Dn): Red
+2021-01-02 19:48:06: CF-125a: TT  500 (Dn): Unacceptable slop on up/down motor moving from  -37 to -44372 at speed  80000000.    Target position: -44372  Current position: -4970    Execution has been paused. Please check machine.
+2021-01-03 10:33:48: CF-125a: TT  500 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2021-01-03 10:57:14: CF-139a: TT  500 (Dn): Unacceptable slop on up/down motor moving from  -39 to -44107 at speed  80000000.    Target position: -44107  Current position: -3817    Execution has been paused. Please check machine.
+2021-01-03 11:23:03: CF-139a: TT  500 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2021-01-03 15:00:05: CF-100a: TT  525 (Up): Red
+2021-01-03 15:21:26: CF-112a: TT  525 (Up): Red
+2021-01-03 16:04:25: CF-136a: TT  525 (Up): Unacceptable slop on up/down motor moving from  -35 to -44198 at speed  80000000.    Target position: -44198  Current position: -4330    Execution has been paused. Please check machine.
+2021-01-03 16:06:05: CF-136a: TT  525 (Up): Hargraves Magnetometer is now operating at code Blue  
+2021-01-03 16:13:35: CF-139a: TT  525 (Up): Red
+2021-01-03 16:31:23: CF-103a: TT  525 (Dn): Red
+2021-01-03 16:42:48: CF-110a: TT  525 (Dn): Red
+2021-01-03 17:12:43: CF-130a: TT  525 (Dn): Red
+2021-01-03 20:48:32: CF-106a: TT  550 (Up): Red
+2021-01-03 21:05:41: CF-115a: TT  550 (Up): Red
+2021-01-03 21:24:32: CF-125a: TT  550 (Up): Red
+2021-01-03 21:40:42: CF-133a: TT  550 (Up): Red
+2021-01-03 21:46:45: CF-136a: TT  550 (Up): Unacceptable slop on up/down motor moving from  -36 to -44199 at speed  80000000.    Target position: -44199  Current position: -26895    Execution has been paused. Please check machine.
+2021-01-03 21:54:24: CF-136a: TT  550 (Up): Hargraves Magnetometer is now operating at code Blue  
+2021-01-03 22:29:44: CF-110a: TT  550 (Dn): Red
+2021-01-03 22:59:42: CF-130a: TT  550 (Dn): Red
+2021-01-03 23:16:50: CF-141a: TT  550 (Dn): Red
+2021-01-07 18:25:20: CF-100a: TT  560 (Up): Red
+2021-01-07 18:46:58: CF-113a: TT  560 (Up): Red
+2021-01-07 19:04:50: CF-123a: TT  560 (Up): Red
+2021-01-07 19:08:52: CF-125a: TT  560 (Up): Red
+2021-01-07 19:24:15: CF-133a: TT  560 (Up): Red
+2021-01-19 14:52:38: CF-136a: TT  570 (Up): Unacceptable slop on up/down motor moving from  -44 to -44194 at speed  80000000.    Target position: -44194  Current position: -4329    Execution has been paused. Please check machine.
+2021-01-19 15:32:05: CF-136a: TT  570 (Up): Hargraves Magnetometer is now operating at code Blue  
+2021-01-28 18:56:00: CF-135a: TT  600 (Up): Unacceptable slop on up/down motor moving from  -34 to -44186 at speed  80000000.    Target position: -44186  Current position: -26147    Execution has been paused. Please check machine.
+2021-01-28 19:04:22: CF-135a: TT  600 (Up): Hargraves Magnetometer is now operating at code Blue  
+2021-01-28 19:07:51: CF-137a: TT  600 (Up): Unacceptable slop on up/down motor moving from  -93755 to -140140 at speed  30000000.    Target position: -140140  Current position: -95594    Execution has been paused. Please check machine.
+2021-01-28 19:20:32: CF-137a: TT  600 (Up): Hargraves Magnetometer is now operating at code Blue  
+2021-01-28 19:21:09: CF-137a: TT  600 (Up): Unacceptable slop on turning motor from   180.09degrees to  270 degrees.    Target position:  6000  Current position:  4002    Execution has been paused. Please check machine.
+2021-01-28 19:21:16: CF-137a: TT  600 (Up): Hargraves Magnetometer is now operating at code Blue  
+2021-01-28 19:22:32: CF-137a: TT  600 (Up): Unacceptable slop on up/down motor moving from  -233 to -93840 at speed  30000000.    Target position: -93840  Current position: -233    Execution has been paused. Please check machine.
+2021-01-28 19:22:36: CF-137a: TT  600 (Up): Hargraves Magnetometer is now operating at code Blue  
+2021-01-28 19:23:57: CF-137a: TT  600 (Up): Unacceptable slop on turning motor from   .135degrees to  90 degrees.    Target position:  2000  Current position:  3    Execution has been paused. Please check machine.
+2021-01-28 19:24:17: CF-137a: TT  600 (Up): Hargraves Magnetometer is now operating at code Blue  
+2021-01-28 19:24:37: CF-137a: TT  600 (Up): Unacceptable slop on turning motor from   .135degrees to  180 degrees.    Target position:  4000  Current position:  3    Execution has been paused. Please check machine.
+2021-01-28 19:24:53: CF-137a: TT  600 (Up): Hargraves Magnetometer is now operating at code Blue  
+2021-01-31 15:09:32: CF-100a: TT  620 (Dn): Unacceptable slop on up/down motor moving from  -31 to -44211 at speed  80000000.    Target position: -44211  Current position: -3892    Execution has been paused. Please check machine.
+2021-01-31 15:10:20: CF-100a: TT  620 (Dn): Hargraves Magnetometer is now operating at code Blue  
+2021-01-31 15:27:16: CF-110a: TT  620 (Dn): Red
+2021-02-12 15:34:12: CF-124a: TT  682 (Up): Unacceptable slop on up/down motor moving from  -32 to -44312 at speed  80000000.    Target position: -44312  Current position: -4630    Execution has been paused. Please check machine.
+2021-02-12 15:42:20: CF-124a: TT  682 (Up): Hargraves Magnetometer is now operating at code Blue  
