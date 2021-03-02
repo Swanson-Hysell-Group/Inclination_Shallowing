@@ -1,270 +1,270 @@
-tab	samples
+tab	samples												
 analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	citations	dip	geologic_classes	geologic_types	height	lithologies	method_codes	sample	site
-	137.5	0.0	0.0	90.0	This study	-2.0			1.1		SO-CMD-NORTH	CF-1a	CF
-	22.5	0.0	0.0	90.0	This study	-7.0			1.5		SO-CMD-NORTH	CF-2a	CF
-	125.5	0.0	0.0	90.0	This study	-4.0			1.8		SO-CMD-NORTH	CF-3a	CF
-	-37.5	0.0	0.0	90.0	This study	-2.0			2.2		SO-CMD-NORTH	CF-4a	CF
-	10.5	0.0	0.0	90.0	This study	-4.0			2.6		SO-CMD-NORTH	CF-5a	CF
-	-15.5	0.0	0.0	90.0	This study	-3.0			3.3		SO-CMD-NORTH	CF-6a	CF
-	-5.5	0.0	0.0	90.0	This study	-8.0			3.7		SO-CMD-NORTH	CF-7a	CF
-	14.5	0.0	0.0	90.0	This study	-4.0			4.1		SO-CMD-NORTH	CF-8a	CF
-	94.5	0.0	0.0	90.0	This study	-44.0			5.4		SO-CMD-NORTH	CF-9a	CF
-	107.5	0.0	0.0	90.0	This study	-80.0			5.8		SO-CMD-NORTH	CF-10a	CF
-	98.5	0.0	0.0	90.0	This study	-65.0			6.2		SO-CMD-NORTH	CF-11a	CF
-	102.5	0.0	0.0	90.0	This study	-67.0			6.7		SO-CMD-NORTH	CF-12a	CF
-	94.5	0.0	0.0	90.0	This study	-56.0			7.1		SO-CMD-NORTH	CF-13a	CF
-	90.5	0.0	0.0	90.0	This study	-49.0			7.6		SO-CMD-NORTH	CF-14a	CF
-	95.5	0.0	0.0	90.0	This study	-79.0			8.0		SO-CMD-NORTH	CF-15a	CF
-	12.5	0.0	0.0	90.0	This study	-84.0			8.2		SO-CMD-NORTH	CF-16a	CF
-	108.5	0.0	0.0	90.0	This study	-82.0			8.7		SO-CMD-NORTH	CF-17a	CF
-	102.5	0.0	0.0	90.0	This study	-92.0			9.1		SO-CMD-NORTH	CF-18a	CF
-	-38.2	0.0	0.0	90.0	This study	-5.0			10.7		SO-CMD-NORTH	CF-19a	CF
-	-32.5	0.0	0.0	90.0	This study	-9.0			11.1		SO-CMD-NORTH	CF-20a	CF
-	-68.0	0.0	0.0	90.0	This study	-5.0			11.3		SO-CMD-NORTH	CF-21a	CF
-	-17.5	0.0	0.0	90.0	This study	-8.0			11.4		SO-CMD-NORTH	CF-22a	CF
-	-49.5	0.0	0.0	90.0	This study	-10.0			11.8		SO-CMD-NORTH	CF-23a	CF
-	-33.5	0.0	0.0	90.0	This study	-16.0			13.0		SO-CMD-NORTH	CF-24a	CF
-	-86.0	0.0	0.0	90.0	This study	-5.0			15.0		SO-CMD-NORTH	CF-25a	CF
-	-41.3	0.0	0.0	90.0	This study	-9.0			15.5		SO-CMD-NORTH	CF-26a	CF
-	195.5	0.0	0.0	90.0	This study	-83.0			16.0		SO-CMD-NORTH	CF-27a	CF
-	226.1	0.0	0.0	90.0	This study	-55.0			16.4		SO-CMD-NORTH	CF-28a	CF
-	-15.5	0.0	0.0	90.0	This study	-8.0			17.2		SO-CMD-NORTH	CF-29a	CF
-	11.5	0.0	0.0	90.0	This study	-18.0			17.8		SO-CMD-NORTH	CF-30a	CF
-	-72.5	0.0	0.0	90.0	This study	-2.0			18.0		SO-CMD-NORTH	CF-31a	CF
-	174.5	0.0	0.0	90.0	This study	-55.0			18.6		SO-CMD-NORTH	CF-33a	CF
-	185.5	0.0	0.0	90.0	This study	-47.0			19.2		SO-CMD-NORTH	CF-35a	CF
-	185.5	0.0	0.0	90.0	This study	-75.0			19.6		SO-CMD-NORTH	CF-36a	CF
-	102.5	0.0	0.0	90.0	This study	-62.0			20.0		SO-CMD-NORTH	CF-37a	CF
-	176.5	0.0	0.0	90.0	This study	-60.0			20.2		SO-CMD-NORTH	CF-38a	CF
-	182.5	0.0	0.0	90.0	This study	-72.0			20.3		SO-CMD-NORTH	CF-39a	CF
-	182.5	0.0	0.0	90.0	This study	-88.0			20.5		SO-CMD-NORTH	CF-40a	CF
-	179.5	0.0	0.0	90.0	This study	-73.0			20.6		SO-CMD-NORTH	CF-41a	CF
-	185.5	0.0	0.0	90.0	This study	-57.0			20.9		SO-CMD-NORTH	CF-43a	CF
-	179.5	0.0	0.0	90.0	This study	-57.0			21.2		SO-CMD-NORTH	CF-44a	CF
-	177.5	0.0	0.0	90.0	This study	-50.0			21.7		SO-CMD-NORTH	CF-45a	CF
-	182.5	0.0	0.0	90.0	This study	-68.0			22.2		SO-CMD-NORTH	CF-46a	CF
-	186.5	0.0	0.0	90.0	This study	-80.0			22.3		SO-CMD-NORTH	CF-47a	CF
-	179.5	0.0	0.0	90.0	This study	-64.0			22.4		SO-CMD-NORTH	CF-48a	CF
-	172.5	0.0	0.0	90.0	This study	-65.0			22.8		SO-CMD-NORTH	CF-49a	CF
-	177.5	0.0	0.0	90.0	This study	-70.0			23.1		SO-CMD-NORTH	CF-50a	CF
-	182.5	0.0	0.0	90.0	This study	-72.0			23.4		SO-CMD-NORTH	CF-51a	CF
-	267.8	0.0	0.0	90.0	This study	-72.0			24.6		SO-CMD-NORTH	CF-52a	CF
-	265.4	0.0	0.0	90.0	This study	-78.0			25.0		SO-CMD-NORTH	CF-53a	CF
-	-79.8	0.0	0.0	90.0	This study	-77.0			25.4		SO-CMD-NORTH	CF-54a	CF
-	-70.0	0.0	0.0	90.0	This study	-83.0			26.3		SO-CMD-NORTH	CF-56a	CF
-	245.1	0.0	0.0	90.0	This study	-71.0			26.9		SO-CMD-NORTH	CF-57a	CF
-	230.4	0.0	0.0	90.0	This study	-80.0			27.2		SO-CMD-NORTH	CF-58a	CF
-	-60.1	0.0	0.0	90.0	This study	-104.0			27.7		SO-CMD-NORTH	CF-59a	CF
-	-65.0	0.0	0.0	90.0	This study	-77.0			28.3		SO-CMD-NORTH	CF-60a	CF
-	-62.1	0.0	0.0	90.0	This study	-79.0			28.5		SO-CMD-NORTH	CF-61a	CF
-	-53.2	0.0	0.0	90.0	This study	-88.0			28.9		SO-CMD-NORTH	CF-62a	CF
-	-63.0	0.0	0.0	90.0	This study	-77.0			29.3		SO-CMD-NORTH	CF-63a	CF
-	-89.3	0.0	0.0	90.0	This study	-99.0			30.0		SO-CMD-NORTH	CF-64a	CF
-	-68.6	0.0	0.0	90.0	This study	-90.0			30.3		SO-CMD-NORTH	CF-65a	CF
-	-72.5	0.0	0.0	90.0	This study	-104.0			30.6		SO-CMD-NORTH	CF-66a	CF
-	-84.5	0.0	0.0	90.0	This study	-86.0			31.0		SO-CMD-NORTH	CF-67a	CF
-	-32.4	0.0	0.0	90.0	This study	-95.0			31.3		SO-CMD-NORTH	CF-68a	CF
-	-64.4	0.0	0.0	90.0	This study	-74.0			31.9		SO-CMD-NORTH	CF-69a	CF
-	-11.0	0.0	0.0	90.0	This study	-1.0			12.6		SO-CMD-NORTH	CF-70a	CF
-	-59.6	0.0	0.0	90.0	This study	-80.0			32.6		SO-CMD-NORTH	CF-71a	CF
-	-66.4	0.0	0.0	90.0	This study	-84.0			32.9		SO-CMD-NORTH	CF-72a	CF
-	-58.5	0.0	0.0	90.0	This study	-85.0			33.3		SO-CMD-NORTH	CF-73a	CF
-	-34.2	0.0	0.0	90.0	This study	-103.0			33.7		SO-CMD-NORTH	CF-74a	CF
-	-72.8	0.0	0.0	90.0	This study	-83.0			33.9		SO-CMD-NORTH	CF-75a	CF
-	-72.4	0.0	0.0	90.0	This study	-83.0			34.2		SO-CMD-NORTH	CF-76a	CF
-	-48.5	0.0	0.0	90.0	This study	-90.0			34.6		SO-CMD-NORTH	CF-77a	CF
-	-67.5	0.0	0.0	90.0	This study	-89.0			35.0		SO-CMD-NORTH	CF-78a	CF
-	-86.5	0.0	0.0	90.0	This study	-90.0			35.3		SO-CMD-NORTH	CF-79a	CF
-	-64.5	0.0	0.0	90.0	This study	-82.0			35.6		SO-CMD-NORTH	CF-80a	CF
-	-74.3	0.0	0.0	90.0	This study	-75.0			36.0		SO-CMD-NORTH	CF-81a	CF
-	-52.2	0.0	0.0	90.0	This study	-93.0			36.6		SO-CMD-NORTH	CF-82a	CF
-	-71.0	0.0	0.0	90.0	This study	-62.0			37.2		SO-CMD-NORTH	CF-84a	CF
-	-74.0	0.0	0.0	90.0	This study	-81.0			37.6		SO-CMD-NORTH	CF-85a	CF
-	-71.5	0.0	0.0	90.0	This study	-73.0			37.9		SO-CMD-NORTH	CF-86a	CF
-	-87.5	0.0	0.0	90.0	This study	-69.0			38.1		SO-CMD-NORTH	CF-87a	CF
-	-87.5	0.0	0.0	90.0	This study	-69.0			38.4		SO-CMD-NORTH	CF-88a	CF
-	-54.5	0.0	0.0	90.0	This study	-73.0			40.6		SO-CMD-NORTH	CF-89a	CF
-	265.5	0.0	0.0	90.0	This study	-76.0			41.8		SO-CMD-NORTH	CF-90a	CF
-	225.5	0.0	0.0	90.0	This study	-80.0			42.2		SO-CMD-NORTH	CF-91a	CF
-	259.5	0.0	0.0	90.0	This study	-63.0			42.4		SO-CMD-NORTH	CF-92a	CF
-	-86.5	0.0	0.0	90.0	This study	-93.0			43.7		SO-CMD-NORTH	CF-93a	CF
-	-85.5	0.0	0.0	90.0	This study	-93.0			43.75		SO-CMD-NORTH	CF-94a	CF
-	-77.5	0.0	0.0	90.0	This study	-86.0			43.85		SO-CMD-NORTH	CF-96a	CF
-	-89.5	0.0	0.0	90.0	This study	-85.0			45.8		SO-CMD-NORTH	CF-97a	CF
-	-43.5	0.0	0.0	90.0	This study	-50.0			46.2		SO-CMD-NORTH	CF-98a	CF
-	231.5	0.0	0.0	90.0	This study	-62.0			46.6		SO-CMD-NORTH	CF-99a	CF
-	-85.0	0.0	0.0	90.0	This study	-65.0			47.5		SO-CMD-NORTH	CF-101a	CF
-	-91.5	0.0	0.0	90.0	This study	-67.0			47.8		SO-CMD-NORTH	CF-102a	CF
-	-89.5	0.0	0.0	90.0	This study	-75.0			48.4		SO-CMD-NORTH	CF-103a	CF
-	-91.5	0.0	0.0	90.0	This study	-80.0			48.95		SO-CMD-NORTH	CF-105a	CF
-	-92.5	0.0	0.0	90.0	This study	-85.0			49.3		SO-CMD-NORTH	CF-106a	CF
-	-70.5	0.0	0.0	90.0	This study	-84.0			49.8		SO-CMD-NORTH	CF-107a	CF
-	262.5	0.0	0.0	90.0	This study	-80.0			50.4		SO-CMD-NORTH	CF-108a	CF
-	-64.5	0.0	0.0	90.0	This study	-86.0			50.8		SO-CMD-NORTH	CF-109a	CF
-	-86.5	0.0	0.0	90.0	This study	-88.0			51.7		SO-CMD-NORTH	CF-110a	CF
-	264.5	0.0	0.0	90.0	This study	-90.0			51.8		SO-CMD-NORTH	CF-111a	CF
-	253.5	0.0	0.0	90.0	This study	-80.0			52.1		SO-CMD-NORTH	CF-112a	CF
-	-85.5	0.0	0.0	90.0	This study	-92.0			52.2		SO-CMD-NORTH	CF-113a	CF
-	262.5	0.0	0.0	90.0	This study	-94.0			52.9		SO-CMD-NORTH	CF-114a	CF
-	-66.5	0.0	0.0	90.0	This study	-92.0			53.4		SO-CMD-NORTH	CF-115a	CF
-	-72.5	0.0	0.0	90.0	This study	-96.0			53.9		SO-CMD-NORTH	CF-116a	CF
-	-66.5	0.0	0.0	90.0	This study	-96.0			54.2		SO-CMD-NORTH	CF-117a	CF
-	243.5	0.0	0.0	90.0	This study	-87.0			54.8		SO-CMD-NORTH	CF-118a	CF
-	-83.5	0.0	0.0	90.0	This study	-88.0			55.2		SO-CMD-NORTH	CF-119a	CF
-	-76.5	0.0	0.0	90.0	This study	-83.0			55.5		SO-CMD-NORTH	CF-120a	CF
-	-77.5	0.0	0.0	90.0	This study	-97.0			55.8		SO-CMD-NORTH	CF-121a	CF
-	262.5	0.0	0.0	90.0	This study	-92.0			56.0		SO-CMD-NORTH	CF-122a	CF
-	-85.5	0.0	0.0	90.0	This study	-78.0			56.3		SO-CMD-NORTH	CF-123a	CF
-	218.5	0.0	0.0	90.0	This study	-68.0			56.5		SO-CMD-NORTH	CF-124a	CF
-	-70.5	0.0	0.0	90.0	This study	-86.0			56.7		SO-CMD-NORTH	CF-125a	CF
-	-62.5	0.0	0.0	90.0	This study	-62.0			57.0		SO-CMD-NORTH	CF-126a	CF
-	-81.5	0.0	0.0	90.0	This study	-94.0			57.4		SO-CMD-NORTH	CF-127a	CF
-	259.5	0.0	0.0	90.0	This study	-87.0			57.9		SO-CMD-NORTH	CF-128a	CF
-	-18.5	0.0	0.0	90.0	This study	-82.0			59.6		SO-CMD-NORTH	CF-129a	CF
-	-82.5	0.0	0.0	90.0	This study	-73.0			59.9		SO-CMD-NORTH	CF-130a	CF
-	243.5	0.0	0.0	90.0	This study	-76.0			60.2		SO-CMD-NORTH	CF-131a	CF
-	247.5	0.0	0.0	90.0	This study	-74.0			60.7		SO-CMD-NORTH	CF-132a	CF
-	-65.5	0.0	0.0	90.0	This study	-96.0			61.1		SO-CMD-NORTH	CF-133a	CF
-	-74.1	0.0	0.0	90.0	This study	-79.0			62.0		SO-CMD-NORTH	CF-134a	CF
-	267.6	0.0	0.0	90.0	This study	-82.0			62.4		SO-CMD-NORTH	CF-135a	CF
-	-80.4	0.0	0.0	90.0	This study	-90.0			62.8		SO-CMD-NORTH	CF-136a	CF
-	258.8	0.0	0.0	90.0	This study	-91.0			63.3		SO-CMD-NORTH	CF-137a	CF
-	-77.8	0.0	0.0	90.0	This study	-89.0			63.9		SO-CMD-NORTH	CF-138a	CF
-	-80.3	0.0	0.0	90.0	This study	-89.0			64.2		SO-CMD-NORTH	CF-139a	CF
-	254.5	0.0	0.0	90.0	This study	-78.0			64.7		SO-CMD-NORTH	CF-140a	CF
-	249.7	0.0	0.0	90.0	This study	-85.0			65.4		SO-CMD-NORTH	CF-141a	CF
-	263.5	0.0	0.0	90.0	This study	-85.0			65.8		SO-CMD-NORTH	CF-142a	CF
-	258.7	0.0	0.0	90.0	This study	-69.0			66.2		SO-CMD-NORTH	CF-143a	CF
-	-85.9	0.0	0.0	90.0	This study	-83.0			67.1		SO-CMD-NORTH	CF-144a	CF
-	-83.9	0.0	0.0	90.0	This study	-85.0			67.3		SO-CMD-NORTH	CF-145a	CF
-	261.5	0.0	0.0	90.0	This study	-93.0			68.5		SO-CMD-NORTH	CF-146a	CF
-	-80.5	0.0	0.0	90.0	This study	-81.0			68.9		SO-CMD-NORTH	CF-147a	CF
-	260.5	0.0	0.0	90.0	This study	-84.0			69.9		SO-CMD-NORTH	CF-148a	CF
-	261.5	0.0	0.0	90.0	This study	-90.0			70.3		SO-CMD-NORTH	CF-149a	CF
-	-76.5	0.0	0.0	90.0	This study	-80.0			70.4		SO-CMD-NORTH	CF-150a	CF
-	265.5	0.0	0.0	90.0	This study	-93.0			70.6		SO-CMD-NORTH	CF-151a	CF
-	256.5	0.0	0.0	90.0	This study	-81.0			71.9		SO-CMD-NORTH	CF-152a	CF
-	-58.5	0.0	0.0	90.0	This study	-95.0			72.6		SO-CMD-NORTH	CF-153a	CF
-	-75.5	0.0	0.0	90.0	This study	-94.0			73.0		SO-CMD-NORTH	CF-154a	CF
-	-72.5	0.0	0.0	90.0	This study	-89.0			73.5		SO-CMD-NORTH	CF-155a	CF
-	-1.5	0.0	0.0	90.0	This study	-87.0			73.9		SO-CMD-NORTH	CF-156a	CF
-	-78.5	0.0	0.0	90.0	This study	-83.0			75.0		SO-CMD-NORTH	CF-157a	CF
-	259.5	0.0	0.0	90.0	This study	-86.0			75.8		SO-CMD-NORTH	CF-158a	CF
-	264.5	0.0	0.0	90.0	This study	-91.0			76.1		SO-CMD-NORTH	CF-159a	CF
-	-83.5	0.0	0.0	90.0	This study	-84.0			76.8		SO-CMD-NORTH	CF-160a	CF
-	265.5	0.0	0.0	90.0	This study	-78.0			77.5		SO-CMD-NORTH	CF-161a	CF
-	-83.5	0.0	0.0	90.0	This study	-83.0			78.1		SO-CMD-NORTH	CF-162a	CF
-	264.5	0.0	0.0	90.0	This study	-73.0			78.7		SO-CMD-NORTH	CF-163a	CF
-	265.5	0.0	0.0	90.0	This study	-82.0			79.6		SO-CMD-NORTH	CF-164a	CF
-	-86.5	0.0	0.0	90.0	This study	-81.0			80.2		SO-CMD-NORTH	CF-165a	CF
-	-69.5	0.0	0.0	90.0	This study	-88.0			80.6		SO-CMD-NORTH	CF-166a	CF
-	-77.5	0.0	0.0	90.0	This study	-85.0			81.1		SO-CMD-NORTH	CF-167a	CF
-	-78.5	0.0	0.0	90.0	This study	-86.0			81.6		SO-CMD-NORTH	CF-168a	CF
-	266.5	0.0	0.0	90.0	This study	-85.0			82.4		SO-CMD-NORTH	CF-169a	CF
-	266.5	0.0	0.0	90.0	This study	-82.0			82.9		SO-CMD-NORTH	CF-170a	CF
-	-92.5	0.0	0.0	90.0	This study	-81.0			84.1		SO-CMD-NORTH	CF-172a	CF
-	250.5	0.0	0.0	90.0	This study	-89.0			85.0		SO-CMD-NORTH	CF-173a	CF
-	-88.5	0.0	0.0	90.0	This study	-80.0			86.1		SO-CMD-NORTH	CF-174a	CF
-	-85.5	0.0	0.0	90.0	This study	-87.0			86.9		SO-CMD-NORTH	CF-175a	CF
-	-78.5	0.0	0.0	90.0	This study	-81.0			87.3		SO-CMD-NORTH	CF-176a	CF
-	-88.5	0.0	0.0	90.0	This study	-89.0			88.0		SO-CMD-NORTH	CF-177a	CF
-	-83.5	0.0	0.0	90.0	This study	-88.0			88.9		SO-CMD-NORTH	CF-178a	CF
-	-86.5	0.0	0.0	90.0	This study	-85.0			89.7		SO-CMD-NORTH	CF-179a	CF
-	56.5	0.0	0.0	90.0	This study	-83.0			90.2		SO-CMD-NORTH	CF-180a	CF
-	262.5	0.0	0.0	90.0	This study	-75.0			91.0		SO-CMD-NORTH	CF-181a	CF
-	-65.5	0.0	0.0	90.0	This study	-83.0			91.5		SO-CMD-NORTH	CF-182a	CF
-	236.5	0.0	0.0	90.0	This study	-77.0			92.3		SO-CMD-NORTH	CF-183a	CF
-	262.5	0.0	0.0	90.0	This study	-80.0			94.1		SO-CMD-NORTH	CF-185a	CF
-	-85.5	0.0	0.0	90.0	This study	-74.0			94.6		SO-CMD-NORTH	CF-186a	CF
-James Pierce	137.5	0.0	9.98	166.5	This study	-2.0			1.1		SO-CMD-NORTH	CF-1	CF
-James Pierce	22.5	0.0	9.98	166.5	This study	-7.0			1.5		SO-CMD-NORTH	CF-2	CF
-James Pierce	125.5	0.0	9.98	166.5	This study	-4.0			1.8		SO-CMD-NORTH	CF-3	CF
-James Pierce	-37.5	0.0	9.98	166.5	This study	-2.0			2.2		SO-CMD-NORTH	CF-4	CF
-James Pierce	10.5	0.0	9.98	166.5	This study	-4.0			2.6		SO-CMD-NORTH	CF-5	CF
-James Pierce	-15.5	0.0	9.98	166.5	This study	-3.0			3.3		SO-CMD-NORTH	CF-6	CF
-James Pierce	-5.5	0.0	9.98	166.5	This study	-8.0			3.7		SO-CMD-NORTH	CF-7	CF
-James Pierce	14.5	0.0	9.98	166.5	This study	-4.0			4.1		SO-CMD-NORTH	CF-8	CF
-James Pierce	94.5	0.0	9.98	166.5	This study	-44.0			5.4		SO-CMD-NORTH	CF-9	CF
-James Pierce	107.5	0.0	9.98	166.5	This study	-80.0			5.8		SO-CMD-NORTH	CF-10	CF
-James Pierce	98.5	0.0	9.98	166.5	This study	-65.0			6.2		SO-CMD-NORTH	CF-11	CF
-James Pierce	102.5	0.0	9.98	166.5	This study	-67.0			6.7		SO-CMD-NORTH	CF-12	CF
-James Pierce	94.5	0.0	9.98	166.5	This study	-56.0			7.1		SO-CMD-NORTH	CF-13	CF
-James Pierce	90.5	0.0	9.98	166.5	This study	-49.0			7.6		SO-CMD-NORTH	CF-14	CF
-James Pierce	95.5	0.0	9.98	166.5	This study	-79.0			8.0		SO-CMD-NORTH	CF-15	CF
-James Pierce	12.5	0.0	9.98	166.5	This study	-84.0			8.2		SO-CMD-NORTH	CF-16	CF
-James Pierce	108.5	0.0	9.98	166.5	This study	-82.0			8.7		SO-CMD-NORTH	CF-17	CF
-James Pierce	102.5	0.0	9.98	166.5	This study	-92.0			9.1		SO-CMD-NORTH	CF-18	CF
-James Pierce	-38.2	0.0	9.98	166.5	This study	-5.0			10.7		SO-CMD-NORTH	CF-19	CF
-James Pierce	-32.5	0.0	9.98	166.5	This study	-9.0			11.1		SO-CMD-NORTH	CF-20	CF
-James Pierce	-68.0	0.0	9.98	166.5	This study	-5.0			11.3		SO-CMD-NORTH	CF-21	CF
-James Pierce	-17.5	0.0	9.98	166.5	This study	-8.0			11.4		SO-CMD-NORTH	CF-22	CF
-James Pierce	-49.5	0.0	9.98	166.5	This study	-10.0			11.8		SO-CMD-NORTH	CF-23	CF
-James Pierce	-33.5	0.0	9.98	166.5	This study	-16.0			13.0		SO-CMD-NORTH	CF-24	CF
-James Pierce	-86.0	0.0	9.98	166.5	This study	-5.0			15.0		SO-CMD-NORTH	CF-25	CF
-James Pierce	-41.3	0.0	9.98	166.5	This study	-9.0			15.5		SO-CMD-NORTH	CF-26	CF
-James Pierce	195.5	0.0	9.98	166.5	This study	-83.0			16.0		SO-CMD-NORTH	CF-27	CF
-James Pierce	226.1	0.0	9.98	166.5	This study	-55.0			16.4		SO-CMD-NORTH	CF-28	CF
-James Pierce	-15.5	0.0	9.98	166.5	This study	-8.0			17.2		SO-CMD-NORTH	CF-29	CF
-James Pierce	11.5	0.0	9.98	166.5	This study	-18.0			17.8		SO-CMD-NORTH	CF-30	CF
-James Pierce	-72.5	0.0	9.98	166.5	This study	-2.0			18.0		SO-CMD-NORTH	CF-31	CF
-James Pierce	174.5	0.0	9.98	166.5	This study	-55.0			18.6		SO-CMD-NORTH	CF-33	CF
-James Pierce	185.5	0.0	9.98	166.5	This study	-47.0			19.2		SO-CMD-NORTH	CF-35	CF
-James Pierce	185.5	0.0	9.98	166.5	This study	-75.0			19.6		SO-CMD-NORTH	CF-36	CF
-James Pierce	102.5	0.0	9.98	166.5	This study	-62.0			20.0		SO-CMD-NORTH	CF-37	CF
-James Pierce	176.5	0.0	9.98	166.5	This study	-60.0			20.2		SO-CMD-NORTH	CF-38	CF
-James Pierce	182.5	0.0	9.98	166.5	This study	-72.0			20.3		SO-CMD-NORTH	CF-39	CF
-James Pierce	182.5	0.0	9.98	166.5	This study	-88.0			20.5		SO-CMD-NORTH	CF-40	CF
-James Pierce	179.5	0.0	9.98	166.5	This study	-73.0			20.6		SO-CMD-NORTH	CF-41	CF
-James Pierce	185.5	0.0	9.98	166.5	This study	-57.0			20.9		SO-CMD-NORTH	CF-43	CF
-James Pierce	179.5	0.0	9.98	166.5	This study	-57.0			21.2		SO-CMD-NORTH	CF-44	CF
-James Pierce	177.5	0.0	9.98	166.5	This study	-50.0			21.7		SO-CMD-NORTH	CF-45	CF
-James Pierce	182.5	0.0	9.98	166.5	This study	-68.0			22.2		SO-CMD-NORTH	CF-46	CF
-James Pierce	186.5	0.0	9.98	166.5	This study	-80.0			22.3		SO-CMD-NORTH	CF-47	CF
-James Pierce	179.5	0.0	9.98	166.5	This study	-64.0			22.4		SO-CMD-NORTH	CF-48	CF
-James Pierce	172.5	0.0	9.98	166.5	This study	-65.0			22.8		SO-CMD-NORTH	CF-49	CF
-James Pierce	177.5	0.0	9.98	166.5	This study	-70.0			23.1		SO-CMD-NORTH	CF-50	CF
-James Pierce	182.5	0.0	9.98	166.5	This study	-72.0			23.4		SO-CMD-NORTH	CF-51	CF
-James Pierce	267.8	0.0	9.98	166.5	This study	-72.0			24.6		SO-CMD-NORTH	CF-52	CF
-James Pierce	265.4	0.0	9.98	166.5	This study	-78.0			25.0		SO-CMD-NORTH	CF-53	CF
-James Pierce	-79.8	0.0	9.98	166.5	This study	-77.0			25.4		SO-CMD-NORTH	CF-54	CF
-James Pierce	-70.0	0.0	9.98	166.5	This study	-83.0			26.3		SO-CMD-NORTH	CF-56	CF
-James Pierce	245.1	0.0	9.98	166.5	This study	-71.0			26.9		SO-CMD-NORTH	CF-57	CF
-James Pierce	230.4	0.0	9.98	166.5	This study	-80.0			27.2		SO-CMD-NORTH	CF-58	CF
-James Pierce	-60.1	0.0	9.98	166.5	This study	-104.0			27.7		SO-CMD-NORTH	CF-59	CF
-James Pierce	-65.0	0.0	9.98	166.5	This study	-77.0			28.3		SO-CMD-NORTH	CF-60	CF
-James Pierce	-62.1	0.0	9.98	166.5	This study	-79.0			28.5		SO-CMD-NORTH	CF-61	CF
-James Pierce	-53.2	0.0	9.98	166.5	This study	-88.0			28.9		SO-CMD-NORTH	CF-62	CF
-James Pierce	-63.0	0.0	9.98	166.5	This study	-77.0			29.3		SO-CMD-NORTH	CF-63	CF
-James Pierce	-89.3	0.0	9.98	166.5	This study	-99.0			30.0		SO-CMD-NORTH	CF-64	CF
-James Pierce	-68.6	0.0	9.98	166.5	This study	-90.0			30.3		SO-CMD-NORTH	CF-65	CF
-James Pierce	-72.5	0.0	9.98	166.5	This study	-104.0			30.6		SO-CMD-NORTH	CF-66	CF
-James Pierce	-84.5	0.0	9.98	166.5	This study	-86.0			31.0		SO-CMD-NORTH	CF-67	CF
-James Pierce	-32.4	0.0	9.98	166.5	This study	-95.0			31.3		SO-CMD-NORTH	CF-68	CF
-James Pierce	-64.4	0.0	9.98	166.5	This study	-74.0			31.9		SO-CMD-NORTH	CF-69	CF
-James Pierce	-11.0	0.0	9.98	166.5	This study	-1.0			12.6		SO-CMD-NORTH	CF-70	CF
-James Pierce	-59.6	0.0	9.98	166.5	This study	-80.0			32.6		SO-CMD-NORTH	CF-71	CF
-James Pierce	-66.4	0.0	9.98	166.5	This study	-84.0			32.9		SO-CMD-NORTH	CF-72	CF
-James Pierce	-58.5	0.0	9.98	166.5	This study	-85.0			33.3		SO-CMD-NORTH	CF-73	CF
-James Pierce	-34.2	0.0	9.98	166.5	This study	-103.0			33.7		SO-CMD-NORTH	CF-74	CF
-James Pierce	-72.8	0.0	9.98	166.5	This study	-83.0			33.9		SO-CMD-NORTH	CF-75	CF
-James Pierce	-72.4	0.0	9.98	166.5	This study	-83.0			34.2		SO-CMD-NORTH	CF-76	CF
-James Pierce	-48.5	0.0	9.98	166.5	This study	-90.0			34.6		SO-CMD-NORTH	CF-77	CF
-James Pierce	-67.5	0.0	9.98	166.5	This study	-89.0			35.0		SO-CMD-NORTH	CF-78	CF
-James Pierce	-86.5	0.0	9.98	166.5	This study	-90.0			35.3		SO-CMD-NORTH	CF-79	CF
-James Pierce	-64.5	0.0	9.98	166.5	This study	-82.0			35.6		SO-CMD-NORTH	CF-80	CF
-James Pierce	-74.3	0.0	9.98	166.5	This study	-75.0			36.0		SO-CMD-NORTH	CF-81	CF
-James Pierce	-52.2	0.0	9.98	166.5	This study	-93.0			36.6		SO-CMD-NORTH	CF-82	CF
-James Pierce	-71.0	0.0	9.98	166.5	This study	-62.0			37.2		SO-CMD-NORTH	CF-84	CF
-James Pierce	-74.0	0.0	9.98	166.5	This study	-81.0			37.6		SO-CMD-NORTH	CF-85	CF
-James Pierce	-71.5	0.0	9.98	166.5	This study	-73.0			37.9		SO-CMD-NORTH	CF-86	CF
-James Pierce	-87.5	0.0	9.98	166.5	This study	-69.0			38.1		SO-CMD-NORTH	CF-87	CF
-James Pierce	-87.5	0.0	9.98	166.5	This study	-69.0			38.4		SO-CMD-NORTH	CF-88	CF
-James Pierce	-54.5	0.0	9.98	166.5	This study	-73.0			40.6		SO-CMD-NORTH	CF-89	CF
-James Pierce	265.5	0.0	9.98	166.5	This study	-76.0			41.8		SO-CMD-NORTH	CF-90	CF
-James Pierce	225.5	0.0	9.98	166.5	This study	-80.0			42.2		SO-CMD-NORTH	CF-91	CF
-James Pierce	259.5	0.0	9.98	166.5	This study	-63.0			42.4		SO-CMD-NORTH	CF-92	CF
-James Pierce	-86.5	0.0	9.98	166.5	This study	-93.0			43.7		SO-CMD-NORTH	CF-93	CF
-James Pierce	-85.5	0.0	9.98	166.5	This study	-93.0			43.75		SO-CMD-NORTH	CF-94	CF
-James Pierce	-77.5	0.0	9.98	166.5	This study	-86.0			43.85		SO-CMD-NORTH	CF-96	CF
-James Pierce	-89.5	0.0	9.98	166.5	This study	-85.0			45.8		SO-CMD-NORTH	CF-97	CF
-James Pierce	-43.5	0.0	9.98	166.5	This study	-50.0			46.2		SO-CMD-NORTH	CF-98	CF
+	137.5	0	9.98	166.5	This study	-2			1.1		SO-CMD-NORTH	CF-1a	CF
+	22.5	0	9.98	166.5	This study	-7			1.5		SO-CMD-NORTH	CF-2a	CF
+	125.5	0	9.98	166.5	This study	-4			1.8		SO-CMD-NORTH	CF-3a	CF
+	-37.5	0	9.98	166.5	This study	-2			2.2		SO-CMD-NORTH	CF-4a	CF
+	10.5	0	9.98	166.5	This study	-4			2.6		SO-CMD-NORTH	CF-5a	CF
+	-15.5	0	9.98	166.5	This study	-3			3.3		SO-CMD-NORTH	CF-6a	CF
+	-5.5	0	9.98	166.5	This study	-8			3.7		SO-CMD-NORTH	CF-7a	CF
+	14.5	0	9.98	166.5	This study	-4			4.1		SO-CMD-NORTH	CF-8a	CF
+	94.5	0	9.98	166.5	This study	-44			5.4		SO-CMD-NORTH	CF-9a	CF
+	107.5	0	9.98	166.5	This study	-80			5.8		SO-CMD-NORTH	CF-10a	CF
+	98.5	0	9.98	166.5	This study	-65			6.2		SO-CMD-NORTH	CF-11a	CF
+	102.5	0	9.98	166.5	This study	-67			6.7		SO-CMD-NORTH	CF-12a	CF
+	94.5	0	9.98	166.5	This study	-56			7.1		SO-CMD-NORTH	CF-13a	CF
+	90.5	0	9.98	166.5	This study	-49			7.6		SO-CMD-NORTH	CF-14a	CF
+	95.5	0	9.98	166.5	This study	-79			8		SO-CMD-NORTH	CF-15a	CF
+	12.5	0	9.98	166.5	This study	-84			8.2		SO-CMD-NORTH	CF-16a	CF
+	108.5	0	9.98	166.5	This study	-82			8.7		SO-CMD-NORTH	CF-17a	CF
+	102.5	0	9.98	166.5	This study	-92			9.1		SO-CMD-NORTH	CF-18a	CF
+	-38.2	0	9.98	166.5	This study	-5			10.7		SO-CMD-NORTH	CF-19a	CF
+	-32.5	0	9.98	166.5	This study	-9			11.1		SO-CMD-NORTH	CF-20a	CF
+	-68	0	9.98	166.5	This study	-5			11.3		SO-CMD-NORTH	CF-21a	CF
+	-17.5	0	9.98	166.5	This study	-8			11.4		SO-CMD-NORTH	CF-22a	CF
+	-49.5	0	9.98	166.5	This study	-10			11.8		SO-CMD-NORTH	CF-23a	CF
+	-33.5	0	9.98	166.5	This study	-16			13		SO-CMD-NORTH	CF-24a	CF
+	-86	0	9.98	166.5	This study	-5			15		SO-CMD-NORTH	CF-25a	CF
+	-41.3	0	9.98	166.5	This study	-9			15.5		SO-CMD-NORTH	CF-26a	CF
+	195.5	0	9.98	166.5	This study	-83			16		SO-CMD-NORTH	CF-27a	CF
+	226.1	0	9.98	166.5	This study	-55			16.4		SO-CMD-NORTH	CF-28a	CF
+	-15.5	0	9.98	166.5	This study	-8			17.2		SO-CMD-NORTH	CF-29a	CF
+	11.5	0	9.98	166.5	This study	-18			17.8		SO-CMD-NORTH	CF-30a	CF
+	-72.5	0	9.98	166.5	This study	-2			18		SO-CMD-NORTH	CF-31a	CF
+	174.5	0	9.98	166.5	This study	-55			18.6		SO-CMD-NORTH	CF-33a	CF
+	185.5	0	9.98	166.5	This study	-47			19.2		SO-CMD-NORTH	CF-35a	CF
+	185.5	0	9.98	166.5	This study	-75			19.6		SO-CMD-NORTH	CF-36a	CF
+	102.5	0	9.98	166.5	This study	-62			20		SO-CMD-NORTH	CF-37a	CF
+	176.5	0	9.98	166.5	This study	-60			20.2		SO-CMD-NORTH	CF-38a	CF
+	182.5	0	9.98	166.5	This study	-72			20.3		SO-CMD-NORTH	CF-39a	CF
+	182.5	0	9.98	166.5	This study	-88			20.5		SO-CMD-NORTH	CF-40a	CF
+	179.5	0	9.98	166.5	This study	-73			20.6		SO-CMD-NORTH	CF-41a	CF
+	185.5	0	9.98	166.5	This study	-57			20.9		SO-CMD-NORTH	CF-43a	CF
+	179.5	0	9.98	166.5	This study	-57			21.2		SO-CMD-NORTH	CF-44a	CF
+	177.5	0	9.98	166.5	This study	-50			21.7		SO-CMD-NORTH	CF-45a	CF
+	182.5	0	9.98	166.5	This study	-68			22.2		SO-CMD-NORTH	CF-46a	CF
+	186.5	0	9.98	166.5	This study	-80			22.3		SO-CMD-NORTH	CF-47a	CF
+	179.5	0	9.98	166.5	This study	-64			22.4		SO-CMD-NORTH	CF-48a	CF
+	172.5	0	9.98	166.5	This study	-65			22.8		SO-CMD-NORTH	CF-49a	CF
+	177.5	0	9.98	166.5	This study	-70			23.1		SO-CMD-NORTH	CF-50a	CF
+	182.5	0	9.98	166.5	This study	-72			23.4		SO-CMD-NORTH	CF-51a	CF
+	267.8	0	9.98	166.5	This study	-72			24.6		SO-CMD-NORTH	CF-52a	CF
+	265.4	0	9.98	166.5	This study	-78			25		SO-CMD-NORTH	CF-53a	CF
+	-79.8	0	9.98	166.5	This study	-77			25.4		SO-CMD-NORTH	CF-54a	CF
+	-70	0	9.98	166.5	This study	-83			26.3		SO-CMD-NORTH	CF-56a	CF
+	245.1	0	9.98	166.5	This study	-71			26.9		SO-CMD-NORTH	CF-57a	CF
+	230.4	0	9.98	166.5	This study	-80			27.2		SO-CMD-NORTH	CF-58a	CF
+	-60.1	0	9.98	166.5	This study	-104			27.7		SO-CMD-NORTH	CF-59a	CF
+	-65	0	9.98	166.5	This study	-77			28.3		SO-CMD-NORTH	CF-60a	CF
+	-62.1	0	9.98	166.5	This study	-79			28.5		SO-CMD-NORTH	CF-61a	CF
+	-53.2	0	9.98	166.5	This study	-88			28.9		SO-CMD-NORTH	CF-62a	CF
+	-63	0	9.98	166.5	This study	-77			29.3		SO-CMD-NORTH	CF-63a	CF
+	-89.3	0	9.98	166.5	This study	-99			30		SO-CMD-NORTH	CF-64a	CF
+	-68.6	0	9.98	166.5	This study	-90			30.3		SO-CMD-NORTH	CF-65a	CF
+	-72.5	0	9.98	166.5	This study	-104			30.6		SO-CMD-NORTH	CF-66a	CF
+	-84.5	0	9.98	166.5	This study	-86			31		SO-CMD-NORTH	CF-67a	CF
+	-32.4	0	9.98	166.5	This study	-95			31.3		SO-CMD-NORTH	CF-68a	CF
+	-64.4	0	9.98	166.5	This study	-74			31.9		SO-CMD-NORTH	CF-69a	CF
+	-11	0	9.98	166.5	This study	-1			12.6		SO-CMD-NORTH	CF-70a	CF
+	-59.6	0	9.98	166.5	This study	-80			32.6		SO-CMD-NORTH	CF-71a	CF
+	-66.4	0	9.98	166.5	This study	-84			32.9		SO-CMD-NORTH	CF-72a	CF
+	-58.5	0	9.98	166.5	This study	-85			33.3		SO-CMD-NORTH	CF-73a	CF
+	-34.2	0	9.98	166.5	This study	-103			33.7		SO-CMD-NORTH	CF-74a	CF
+	-72.8	0	9.98	166.5	This study	-83			33.9		SO-CMD-NORTH	CF-75a	CF
+	-72.4	0	9.98	166.5	This study	-83			34.2		SO-CMD-NORTH	CF-76a	CF
+	-48.5	0	9.98	166.5	This study	-90			34.6		SO-CMD-NORTH	CF-77a	CF
+	-67.5	0	9.98	166.5	This study	-89			35		SO-CMD-NORTH	CF-78a	CF
+	-86.5	0	9.98	166.5	This study	-90			35.3		SO-CMD-NORTH	CF-79a	CF
+	-64.5	0	9.98	166.5	This study	-82			35.6		SO-CMD-NORTH	CF-80a	CF
+	-74.3	0	9.98	166.5	This study	-75			36		SO-CMD-NORTH	CF-81a	CF
+	-52.2	0	9.98	166.5	This study	-93			36.6		SO-CMD-NORTH	CF-82a	CF
+	-71	0	9.98	166.5	This study	-62			37.2		SO-CMD-NORTH	CF-84a	CF
+	-74	0	9.98	166.5	This study	-81			37.6		SO-CMD-NORTH	CF-85a	CF
+	-71.5	0	9.98	166.5	This study	-73			37.9		SO-CMD-NORTH	CF-86a	CF
+	-87.5	0	9.98	166.5	This study	-69			38.1		SO-CMD-NORTH	CF-87a	CF
+	-87.5	0	9.98	166.5	This study	-69			38.4		SO-CMD-NORTH	CF-88a	CF
+	-54.5	0	9.98	166.5	This study	-73			40.6		SO-CMD-NORTH	CF-89a	CF
+	265.5	0	9.98	166.5	This study	-76			41.8		SO-CMD-NORTH	CF-90a	CF
+	225.5	0	9.98	166.5	This study	-80			42.2		SO-CMD-NORTH	CF-91a	CF
+	259.5	0	9.98	166.5	This study	-63			42.4		SO-CMD-NORTH	CF-92a	CF
+	-86.5	0	9.98	166.5	This study	-93			43.7		SO-CMD-NORTH	CF-93a	CF
+	-85.5	0	9.98	166.5	This study	-93			43.75		SO-CMD-NORTH	CF-94a	CF
+	-77.5	0	9.98	166.5	This study	-86			43.85		SO-CMD-NORTH	CF-96a	CF
+	-89.5	0	9.98	166.5	This study	-85			45.8		SO-CMD-NORTH	CF-97a	CF
+	-43.5	0	9.98	166.5	This study	-50			46.2		SO-CMD-NORTH	CF-98a	CF
+	231.5	0	9.98	166.5	This study	-62			46.6		SO-CMD-NORTH	CF-99a	CF
+	-85	0	9.98	166.5	This study	-65			47.5		SO-CMD-NORTH	CF-101a	CF
+	-91.5	0	9.98	166.5	This study	-67			47.8		SO-CMD-NORTH	CF-102a	CF
+	-89.5	0	9.98	166.5	This study	-75			48.4		SO-CMD-NORTH	CF-103a	CF
+	-91.5	0	9.98	166.5	This study	-80			48.95		SO-CMD-NORTH	CF-105a	CF
+	-92.5	0	9.98	166.5	This study	-85			49.3		SO-CMD-NORTH	CF-106a	CF
+	-70.5	0	9.98	166.5	This study	-84			49.8		SO-CMD-NORTH	CF-107a	CF
+	262.5	0	9.98	166.5	This study	-80			50.4		SO-CMD-NORTH	CF-108a	CF
+	-64.5	0	9.98	166.5	This study	-86			50.8		SO-CMD-NORTH	CF-109a	CF
+	-86.5	0	9.98	166.5	This study	-88			51.7		SO-CMD-NORTH	CF-110a	CF
+	264.5	0	9.98	166.5	This study	-90			51.8		SO-CMD-NORTH	CF-111a	CF
+	253.5	0	9.98	166.5	This study	-80			52.1		SO-CMD-NORTH	CF-112a	CF
+	-85.5	0	9.98	166.5	This study	-92			52.2		SO-CMD-NORTH	CF-113a	CF
+	262.5	0	9.98	166.5	This study	-94			52.9		SO-CMD-NORTH	CF-114a	CF
+	-66.5	0	9.98	166.5	This study	-92			53.4		SO-CMD-NORTH	CF-115a	CF
+	-72.5	0	9.98	166.5	This study	-96			53.9		SO-CMD-NORTH	CF-116a	CF
+	-66.5	0	9.98	166.5	This study	-96			54.2		SO-CMD-NORTH	CF-117a	CF
+	243.5	0	9.98	166.5	This study	-87			54.8		SO-CMD-NORTH	CF-118a	CF
+	-83.5	0	9.98	166.5	This study	-88			55.2		SO-CMD-NORTH	CF-119a	CF
+	-76.5	0	9.98	166.5	This study	-83			55.5		SO-CMD-NORTH	CF-120a	CF
+	-77.5	0	9.98	166.5	This study	-97			55.8		SO-CMD-NORTH	CF-121a	CF
+	262.5	0	9.98	166.5	This study	-92			56		SO-CMD-NORTH	CF-122a	CF
+	-85.5	0	9.98	166.5	This study	-78			56.3		SO-CMD-NORTH	CF-123a	CF
+	218.5	0	9.98	166.5	This study	-68			56.5		SO-CMD-NORTH	CF-124a	CF
+	-70.5	0	9.98	166.5	This study	-86			56.7		SO-CMD-NORTH	CF-125a	CF
+	-62.5	0	9.98	166.5	This study	-62			57		SO-CMD-NORTH	CF-126a	CF
+	-81.5	0	9.98	166.5	This study	-94			57.4		SO-CMD-NORTH	CF-127a	CF
+	259.5	0	9.98	166.5	This study	-87			57.9		SO-CMD-NORTH	CF-128a	CF
+	-18.5	0	9.98	166.5	This study	-82			59.6		SO-CMD-NORTH	CF-129a	CF
+	-82.5	0	9.98	166.5	This study	-73			59.9		SO-CMD-NORTH	CF-130a	CF
+	243.5	0	9.98	166.5	This study	-76			60.2		SO-CMD-NORTH	CF-131a	CF
+	247.5	0	9.98	166.5	This study	-74			60.7		SO-CMD-NORTH	CF-132a	CF
+	-65.5	0	9.98	166.5	This study	-96			61.1		SO-CMD-NORTH	CF-133a	CF
+	-74.1	0	9.98	166.5	This study	-79			62		SO-CMD-NORTH	CF-134a	CF
+	267.6	0	9.98	166.5	This study	-82			62.4		SO-CMD-NORTH	CF-135a	CF
+	-80.4	0	9.98	166.5	This study	-90			62.8		SO-CMD-NORTH	CF-136a	CF
+	258.8	0	9.98	166.5	This study	-91			63.3		SO-CMD-NORTH	CF-137a	CF
+	-77.8	0	9.98	166.5	This study	-89			63.9		SO-CMD-NORTH	CF-138a	CF
+	-80.3	0	9.98	166.5	This study	-89			64.2		SO-CMD-NORTH	CF-139a	CF
+	254.5	0	9.98	166.5	This study	-78			64.7		SO-CMD-NORTH	CF-140a	CF
+	249.7	0	9.98	166.5	This study	-85			65.4		SO-CMD-NORTH	CF-141a	CF
+	263.5	0	9.98	166.5	This study	-85			65.8		SO-CMD-NORTH	CF-142a	CF
+	258.7	0	9.98	166.5	This study	-69			66.2		SO-CMD-NORTH	CF-143a	CF
+	-85.9	0	9.98	166.5	This study	-83			67.1		SO-CMD-NORTH	CF-144a	CF
+	-83.9	0	9.98	166.5	This study	-85			67.3		SO-CMD-NORTH	CF-145a	CF
+	261.5	0	9.98	166.5	This study	-93			68.5		SO-CMD-NORTH	CF-146a	CF
+	-80.5	0	9.98	166.5	This study	-81			68.9		SO-CMD-NORTH	CF-147a	CF
+	260.5	0	9.98	166.5	This study	-84			69.9		SO-CMD-NORTH	CF-148a	CF
+	261.5	0	9.98	166.5	This study	-90			70.3		SO-CMD-NORTH	CF-149a	CF
+	-76.5	0	9.98	166.5	This study	-80			70.4		SO-CMD-NORTH	CF-150a	CF
+	265.5	0	9.98	166.5	This study	-93			70.6		SO-CMD-NORTH	CF-151a	CF
+	256.5	0	9.98	166.5	This study	-81			71.9		SO-CMD-NORTH	CF-152a	CF
+	-58.5	0	9.98	166.5	This study	-95			72.6		SO-CMD-NORTH	CF-153a	CF
+	-75.5	0	9.98	166.5	This study	-94			73		SO-CMD-NORTH	CF-154a	CF
+	-72.5	0	9.98	166.5	This study	-89			73.5		SO-CMD-NORTH	CF-155a	CF
+	-1.5	0	9.98	166.5	This study	-87			73.9		SO-CMD-NORTH	CF-156a	CF
+	-78.5	0	9.98	166.5	This study	-83			75		SO-CMD-NORTH	CF-157a	CF
+	259.5	0	9.98	166.5	This study	-86			75.8		SO-CMD-NORTH	CF-158a	CF
+	264.5	0	9.98	166.5	This study	-91			76.1		SO-CMD-NORTH	CF-159a	CF
+	-83.5	0	9.98	166.5	This study	-84			76.8		SO-CMD-NORTH	CF-160a	CF
+	265.5	0	9.98	166.5	This study	-78			77.5		SO-CMD-NORTH	CF-161a	CF
+	-83.5	0	9.98	166.5	This study	-83			78.1		SO-CMD-NORTH	CF-162a	CF
+	264.5	0	9.98	166.5	This study	-73			78.7		SO-CMD-NORTH	CF-163a	CF
+	265.5	0	9.98	166.5	This study	-82			79.6		SO-CMD-NORTH	CF-164a	CF
+	-86.5	0	9.98	166.5	This study	-81			80.2		SO-CMD-NORTH	CF-165a	CF
+	-69.5	0	9.98	166.5	This study	-88			80.6		SO-CMD-NORTH	CF-166a	CF
+	-77.5	0	9.98	166.5	This study	-85			81.1		SO-CMD-NORTH	CF-167a	CF
+	-78.5	0	9.98	166.5	This study	-86			81.6		SO-CMD-NORTH	CF-168a	CF
+	266.5	0	9.98	166.5	This study	-85			82.4		SO-CMD-NORTH	CF-169a	CF
+	266.5	0	9.98	166.5	This study	-82			82.9		SO-CMD-NORTH	CF-170a	CF
+	-92.5	0	9.98	166.5	This study	-81			84.1		SO-CMD-NORTH	CF-172a	CF
+	250.5	0	9.98	166.5	This study	-89			85		SO-CMD-NORTH	CF-173a	CF
+	-88.5	0	9.98	166.5	This study	-80			86.1		SO-CMD-NORTH	CF-174a	CF
+	-85.5	0	9.98	166.5	This study	-87			86.9		SO-CMD-NORTH	CF-175a	CF
+	-78.5	0	9.98	166.5	This study	-81			87.3		SO-CMD-NORTH	CF-176a	CF
+	-88.5	0	9.98	166.5	This study	-89			88		SO-CMD-NORTH	CF-177a	CF
+	-83.5	0	9.98	166.5	This study	-88			88.9		SO-CMD-NORTH	CF-178a	CF
+	-86.5	0	9.98	166.5	This study	-85			89.7		SO-CMD-NORTH	CF-179a	CF
+	56.5	0	9.98	166.5	This study	-83			90.2		SO-CMD-NORTH	CF-180a	CF
+	262.5	0	9.98	166.5	This study	-75			91		SO-CMD-NORTH	CF-181a	CF
+	-65.5	0	9.98	166.5	This study	-83			91.5		SO-CMD-NORTH	CF-182a	CF
+	236.5	0	9.98	166.5	This study	-77			92.3		SO-CMD-NORTH	CF-183a	CF
+	262.5	0	9.98	166.5	This study	-80			94.1		SO-CMD-NORTH	CF-185a	CF
+	-85.5	0	9.98	166.5	This study	-74			94.6		SO-CMD-NORTH	CF-186a	CF
+James Pierce	137.5	0	9.98	166.5	This study	-2			1.1		SO-CMD-NORTH	CF-1	CF
+James Pierce	22.5	0	9.98	166.5	This study	-7			1.5		SO-CMD-NORTH	CF-2	CF
+James Pierce	125.5	0	9.98	166.5	This study	-4			1.8		SO-CMD-NORTH	CF-3	CF
+James Pierce	-37.5	0	9.98	166.5	This study	-2			2.2		SO-CMD-NORTH	CF-4	CF
+James Pierce	10.5	0	9.98	166.5	This study	-4			2.6		SO-CMD-NORTH	CF-5	CF
+James Pierce	-15.5	0	9.98	166.5	This study	-3			3.3		SO-CMD-NORTH	CF-6	CF
+James Pierce	-5.5	0	9.98	166.5	This study	-8			3.7		SO-CMD-NORTH	CF-7	CF
+James Pierce	14.5	0	9.98	166.5	This study	-4			4.1		SO-CMD-NORTH	CF-8	CF
+James Pierce	94.5	0	9.98	166.5	This study	-44			5.4		SO-CMD-NORTH	CF-9	CF
+James Pierce	107.5	0	9.98	166.5	This study	-80			5.8		SO-CMD-NORTH	CF-10	CF
+James Pierce	98.5	0	9.98	166.5	This study	-65			6.2		SO-CMD-NORTH	CF-11	CF
+James Pierce	102.5	0	9.98	166.5	This study	-67			6.7		SO-CMD-NORTH	CF-12	CF
+James Pierce	94.5	0	9.98	166.5	This study	-56			7.1		SO-CMD-NORTH	CF-13	CF
+James Pierce	90.5	0	9.98	166.5	This study	-49			7.6		SO-CMD-NORTH	CF-14	CF
+James Pierce	95.5	0	9.98	166.5	This study	-79			8		SO-CMD-NORTH	CF-15	CF
+James Pierce	12.5	0	9.98	166.5	This study	-84			8.2		SO-CMD-NORTH	CF-16	CF
+James Pierce	108.5	0	9.98	166.5	This study	-82			8.7		SO-CMD-NORTH	CF-17	CF
+James Pierce	102.5	0	9.98	166.5	This study	-92			9.1		SO-CMD-NORTH	CF-18	CF
+James Pierce	-38.2	0	9.98	166.5	This study	-5			10.7		SO-CMD-NORTH	CF-19	CF
+James Pierce	-32.5	0	9.98	166.5	This study	-9			11.1		SO-CMD-NORTH	CF-20	CF
+James Pierce	-68	0	9.98	166.5	This study	-5			11.3		SO-CMD-NORTH	CF-21	CF
+James Pierce	-17.5	0	9.98	166.5	This study	-8			11.4		SO-CMD-NORTH	CF-22	CF
+James Pierce	-49.5	0	9.98	166.5	This study	-10			11.8		SO-CMD-NORTH	CF-23	CF
+James Pierce	-33.5	0	9.98	166.5	This study	-16			13		SO-CMD-NORTH	CF-24	CF
+James Pierce	-86	0	9.98	166.5	This study	-5			15		SO-CMD-NORTH	CF-25	CF
+James Pierce	-41.3	0	9.98	166.5	This study	-9			15.5		SO-CMD-NORTH	CF-26	CF
+James Pierce	195.5	0	9.98	166.5	This study	-83			16		SO-CMD-NORTH	CF-27	CF
+James Pierce	226.1	0	9.98	166.5	This study	-55			16.4		SO-CMD-NORTH	CF-28	CF
+James Pierce	-15.5	0	9.98	166.5	This study	-8			17.2		SO-CMD-NORTH	CF-29	CF
+James Pierce	11.5	0	9.98	166.5	This study	-18			17.8		SO-CMD-NORTH	CF-30	CF
+James Pierce	-72.5	0	9.98	166.5	This study	-2			18		SO-CMD-NORTH	CF-31	CF
+James Pierce	174.5	0	9.98	166.5	This study	-55			18.6		SO-CMD-NORTH	CF-33	CF
+James Pierce	185.5	0	9.98	166.5	This study	-47			19.2		SO-CMD-NORTH	CF-35	CF
+James Pierce	185.5	0	9.98	166.5	This study	-75			19.6		SO-CMD-NORTH	CF-36	CF
+James Pierce	102.5	0	9.98	166.5	This study	-62			20		SO-CMD-NORTH	CF-37	CF
+James Pierce	176.5	0	9.98	166.5	This study	-60			20.2		SO-CMD-NORTH	CF-38	CF
+James Pierce	182.5	0	9.98	166.5	This study	-72			20.3		SO-CMD-NORTH	CF-39	CF
+James Pierce	182.5	0	9.98	166.5	This study	-88			20.5		SO-CMD-NORTH	CF-40	CF
+James Pierce	179.5	0	9.98	166.5	This study	-73			20.6		SO-CMD-NORTH	CF-41	CF
+James Pierce	185.5	0	9.98	166.5	This study	-57			20.9		SO-CMD-NORTH	CF-43	CF
+James Pierce	179.5	0	9.98	166.5	This study	-57			21.2		SO-CMD-NORTH	CF-44	CF
+James Pierce	177.5	0	9.98	166.5	This study	-50			21.7		SO-CMD-NORTH	CF-45	CF
+James Pierce	182.5	0	9.98	166.5	This study	-68			22.2		SO-CMD-NORTH	CF-46	CF
+James Pierce	186.5	0	9.98	166.5	This study	-80			22.3		SO-CMD-NORTH	CF-47	CF
+James Pierce	179.5	0	9.98	166.5	This study	-64			22.4		SO-CMD-NORTH	CF-48	CF
+James Pierce	172.5	0	9.98	166.5	This study	-65			22.8		SO-CMD-NORTH	CF-49	CF
+James Pierce	177.5	0	9.98	166.5	This study	-70			23.1		SO-CMD-NORTH	CF-50	CF
+James Pierce	182.5	0	9.98	166.5	This study	-72			23.4		SO-CMD-NORTH	CF-51	CF
+James Pierce	267.8	0	9.98	166.5	This study	-72			24.6		SO-CMD-NORTH	CF-52	CF
+James Pierce	265.4	0	9.98	166.5	This study	-78			25		SO-CMD-NORTH	CF-53	CF
+James Pierce	-79.8	0	9.98	166.5	This study	-77			25.4		SO-CMD-NORTH	CF-54	CF
+James Pierce	-70	0	9.98	166.5	This study	-83			26.3		SO-CMD-NORTH	CF-56	CF
+James Pierce	245.1	0	9.98	166.5	This study	-71			26.9		SO-CMD-NORTH	CF-57	CF
+James Pierce	230.4	0	9.98	166.5	This study	-80			27.2		SO-CMD-NORTH	CF-58	CF
+James Pierce	-60.1	0	9.98	166.5	This study	-104			27.7		SO-CMD-NORTH	CF-59	CF
+James Pierce	-65	0	9.98	166.5	This study	-77			28.3		SO-CMD-NORTH	CF-60	CF
+James Pierce	-62.1	0	9.98	166.5	This study	-79			28.5		SO-CMD-NORTH	CF-61	CF
+James Pierce	-53.2	0	9.98	166.5	This study	-88			28.9		SO-CMD-NORTH	CF-62	CF
+James Pierce	-63	0	9.98	166.5	This study	-77			29.3		SO-CMD-NORTH	CF-63	CF
+James Pierce	-89.3	0	9.98	166.5	This study	-99			30		SO-CMD-NORTH	CF-64	CF
+James Pierce	-68.6	0	9.98	166.5	This study	-90			30.3		SO-CMD-NORTH	CF-65	CF
+James Pierce	-72.5	0	9.98	166.5	This study	-104			30.6		SO-CMD-NORTH	CF-66	CF
+James Pierce	-84.5	0	9.98	166.5	This study	-86			31		SO-CMD-NORTH	CF-67	CF
+James Pierce	-32.4	0	9.98	166.5	This study	-95			31.3		SO-CMD-NORTH	CF-68	CF
+James Pierce	-64.4	0	9.98	166.5	This study	-74			31.9		SO-CMD-NORTH	CF-69	CF
+James Pierce	-11	0	9.98	166.5	This study	-1			12.6		SO-CMD-NORTH	CF-70	CF
+James Pierce	-59.6	0	9.98	166.5	This study	-80			32.6		SO-CMD-NORTH	CF-71	CF
+James Pierce	-66.4	0	9.98	166.5	This study	-84			32.9		SO-CMD-NORTH	CF-72	CF
+James Pierce	-58.5	0	9.98	166.5	This study	-85			33.3		SO-CMD-NORTH	CF-73	CF
+James Pierce	-34.2	0	9.98	166.5	This study	-103			33.7		SO-CMD-NORTH	CF-74	CF
+James Pierce	-72.8	0	9.98	166.5	This study	-83			33.9		SO-CMD-NORTH	CF-75	CF
+James Pierce	-72.4	0	9.98	166.5	This study	-83			34.2		SO-CMD-NORTH	CF-76	CF
+James Pierce	-48.5	0	9.98	166.5	This study	-90			34.6		SO-CMD-NORTH	CF-77	CF
+James Pierce	-67.5	0	9.98	166.5	This study	-89			35		SO-CMD-NORTH	CF-78	CF
+James Pierce	-86.5	0	9.98	166.5	This study	-90			35.3		SO-CMD-NORTH	CF-79	CF
+James Pierce	-64.5	0	9.98	166.5	This study	-82			35.6		SO-CMD-NORTH	CF-80	CF
+James Pierce	-74.3	0	9.98	166.5	This study	-75			36		SO-CMD-NORTH	CF-81	CF
+James Pierce	-52.2	0	9.98	166.5	This study	-93			36.6		SO-CMD-NORTH	CF-82	CF
+James Pierce	-71	0	9.98	166.5	This study	-62			37.2		SO-CMD-NORTH	CF-84	CF
+James Pierce	-74	0	9.98	166.5	This study	-81			37.6		SO-CMD-NORTH	CF-85	CF
+James Pierce	-71.5	0	9.98	166.5	This study	-73			37.9		SO-CMD-NORTH	CF-86	CF
+James Pierce	-87.5	0	9.98	166.5	This study	-69			38.1		SO-CMD-NORTH	CF-87	CF
+James Pierce	-87.5	0	9.98	166.5	This study	-69			38.4		SO-CMD-NORTH	CF-88	CF
+James Pierce	-54.5	0	9.98	166.5	This study	-73			40.6		SO-CMD-NORTH	CF-89	CF
+James Pierce	265.5	0	9.98	166.5	This study	-76			41.8		SO-CMD-NORTH	CF-90	CF
+James Pierce	225.5	0	9.98	166.5	This study	-80			42.2		SO-CMD-NORTH	CF-91	CF
+James Pierce	259.5	0	9.98	166.5	This study	-63			42.4		SO-CMD-NORTH	CF-92	CF
+James Pierce	-86.5	0	9.98	166.5	This study	-93			43.7		SO-CMD-NORTH	CF-93	CF
+James Pierce	-85.5	0	9.98	166.5	This study	-93			43.75		SO-CMD-NORTH	CF-94	CF
+James Pierce	-77.5	0	9.98	166.5	This study	-86			43.85		SO-CMD-NORTH	CF-96	CF
+James Pierce	-89.5	0	9.98	166.5	This study	-85			45.8		SO-CMD-NORTH	CF-97	CF
+James Pierce	-43.5	0	9.98	166.5	This study	-50			46.2		SO-CMD-NORTH	CF-98	CF
