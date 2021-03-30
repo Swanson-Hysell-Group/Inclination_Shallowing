@@ -1,0 +1,6 @@
+tab	samples
+sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
+TP1-5b	TP1	0				Jp	  264.5	    0.0	    0.0	   90.0	  -86.0	This study	SO-CMD-NORTH
+TP1-6b	TP1	0				Jp	  -90.5	    0.0	    0.0	   90.0	  -89.0	This study	SO-CMD-NORTH
+TP1-7b	TP1	0				Jp	  233.5	    0.0	    0.0	   90.0	  -72.0	This study	SO-CMD-NORTH
+TP1-9b	TP1	0				Jp	  225.5	    0.0	    0.0	   90.0	  -78.0	This study	SO-CMD-NORTH

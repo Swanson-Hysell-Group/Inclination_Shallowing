@@ -1,0 +1,8 @@
+tab	specimens
+specimen	sample	analysts	citations	method_codes	volume	weight
+GH1-1b	GH1-1b	JP	This study	LP-NOMAG		
+GH1-2b	GH1-2b	JP	This study	LP-NOMAG		
+GH1-3b	GH1-3b	JP	This study	LP-NOMAG		
+GH1-5b	GH1-5b	JP	This study	LP-NOMAG		
+GH1-6b	GH1-6b	JP	This study	LP-NOMAG		
+GH1-8b	GH1-8b	JP	This study	LP-NOMAG		

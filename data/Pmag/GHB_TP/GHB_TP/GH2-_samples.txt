@@ -1,0 +1,10 @@
+tab	samples
+sample	site	height	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes
+GH2-1b	GH2	0				JP	  -40.4	    0.0	    0.0	   90.0	  -60.0	This study	SO-CMD-NORTH
+GH2-2b	GH2	0				JP	  -35.9	    0.0	    0.0	   90.0	  -55.0	This study	SO-CMD-NORTH
+GH2-3b	GH2	0				JP	  -38.9	    0.0	    0.0	   90.0	  -53.0	This study	SO-CMD-NORTH
+GH2-4b	GH2	0				JP	  -39.8	    0.0	    0.0	   90.0	  -44.0	This study	SO-CMD-NORTH
+GH2-5b	GH2	0				JP	  -44.8	    0.0	    0.0	   90.0	  -50.0	This study	SO-CMD-NORTH
+GH2-6b	GH2	0				JP	  -42.7	    0.0	    0.0	   90.0	  -46.0	This study	SO-CMD-NORTH
+GH2-7b	GH2	0				JP	  -45.7	    0.0	    0.0	   90.0	  -51.0	This study	SO-CMD-NORTH
+GH2-8b	GH2	0				JP	  -38.6	    0.0	    0.0	   90.0	  -47.0	This study	SO-CMD-NORTH
