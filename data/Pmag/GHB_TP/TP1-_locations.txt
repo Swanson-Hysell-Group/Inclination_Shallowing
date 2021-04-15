@@ -1,0 +1,3 @@
+tab	locations
+location	lat_n	lat_s	lon_e	lon_w	analysts	citations
+GH TP	47.7	47.7	-90.4	-90.4	JP	This study

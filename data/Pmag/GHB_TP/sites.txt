@@ -1,0 +1,5 @@
+tab	sites
+analysts	citations	lat	location	lon	site
+JP	This study	47.7	GH TP	-90.4	TP1
+JP	This study	47.7	GH TP	-90.4	GH2
+JP	This study	47.7	GH TP	-90.4	GH1

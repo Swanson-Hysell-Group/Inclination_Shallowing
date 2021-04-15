@@ -1,3 +1,0 @@
-tab	locations
-analysts	citations	lat_n	lat_s	location	lon_e	lon_w
-	This study	47.7	47.7	Cutface Creek	-90.4	-90.4
