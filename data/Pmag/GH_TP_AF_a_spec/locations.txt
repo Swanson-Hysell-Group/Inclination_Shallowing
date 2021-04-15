@@ -1,0 +1,3 @@
+tab	locations
+analysts	citations	lat_n	lat_s	location	lon_e	lon_w
+JP	This study	47.7	47.7	Cut Face	-90.4	-90.4

@@ -1,0 +1,5 @@
+tab	sites
+site	location	lat	lon	analysts	citations
+GH1	Cut Face	47.7	-90.4	JP	This study
+GH2	Cut Face	47.7	-90.4	JP	This study
+TP1	Cut Face	47.7	-90.4	JP	This study
