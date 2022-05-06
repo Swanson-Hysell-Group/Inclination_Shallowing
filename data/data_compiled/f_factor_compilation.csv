@@ -1,0 +1,43 @@
+﻿formation,f,ref,mineralogy,method,note
+Glenshaw Fm.,0.65,"Kodama, 2009",Mag,Anisotropy,
+Perforada Fm.,0.67,"Vaugn et al., 2005",Mag,Anisotropy,
+Nanaimo Group,0.70,"Kim and Kodama, 2004",Mag,Anisotropy,
+Valle Group,0.69,"Li et al., 2001",Mag,Anisotropy,
+Ladd Fm.,0.65,"Tan and Kodama, 1998",Mag,Anisotropy,
+Point Loma Fm.,0.56,"Tan and Kodama, 1998",Mag,Anisotropy,
+Pigeon Point Fm.,0.71,"Kodama and Davi, 1995",Mag,Anisotropy,
+Deer Lake Group,0.54,"Bilardello, 2008",Mag,Anisotropy,
+Nacimiento Fm.,0.79,"Kodama, 1997",Mag,Anisotropy,
+Mediterranean region,0.68,"Krijgsman and Tauxe, 2004",Mag?,EI,
+Linzizong Group,0.43,"Huang et al., 2013",Mag,EI,
+Itarare,0.68,Bilardello et al. 2018,Mag,Anisotropy,
+Shepody Fm.,0.64,"Bilardello, 2008",Hem,Anisotropy,
+Maringouin Fm.,0.83,"Bilardello, 2008",Hem,Anisotropy,
+Dan River,0.59,"Kent and Tauxe, 2005",Hem,EI,
+Newark basin: Princeton,0.57,"Kent and Tauxe, 2005",Hem,EI,
+Newark basin: Nursery,0.40,"Kent and Tauxe, 2005",Hem,EI,
+Newark basin: Titusville,0.63,"Kent and Tauxe, 2005",Hem,EI,
+Newark basin: Rutgers,0.66,"Kent and Tauxe, 2005",Hem,EI,
+Newark basin: Somerset,0.63,"Kent and Tauxe, 2005",Hem,EI,
+Newark basin: Weston,0.49,"Kent and Tauxe, 2005",Hem,EI,
+Newark basin: Martinsville,0.49,"Kent and Tauxe, 2005",Hem,EI,
+St. Audrie's Bay,0.68,"Kent and Tauxe, 2005",Hem,EI,
+Jameson Land,0.58,"Kent and Tauxe, 2005",Hem,EI,
+Mauch Chunk,0.49,Bilardello and Kodama 2010c,Hem,Anisotropy,
+Potwar,0.77,"Tauxe, 2005",Hem,EI,
+Subei,0.49,"Tauxe, 2005",Hem,EI,
+Sonkul Basin,0.58,"Kirscher et al., 2014",Hem,EI,
+Lhasa block,0.52,"Tan et al., 2010",Hem,EI,
+Asia: Ctg-Xsh,0.78,"Dupont-Nivet et al., 2010",Hem?,EI,"These are corrections of data of other people, excluding Subei of Tauxe, 2005"
+Asia: Xiejia,0.90,"Dupont-Nivet et al., 2010",Hem?,EI,"These are corrections of data of other people, excluding Subei of Tauxe, 2006"
+Asia: Mahalagou,0.68,"Dupont-Nivet et al., 2010",Hem?,EI,"These are corrections of data of other people, excluding Subei of Tauxe, 2007"
+Asia: Guide,0.63,"Dupont-Nivet et al., 2010",Hem?,EI,"These are corrections of data of other people, excluding Subei of Tauxe, 2008"
+Greater India: Zhongpu,0.69,"Dupont-Nivet et al., 2010",Hem?,EI,"These are corrections of data of other people, excluding Subei of Tauxe, 2009"
+Greater India: Zhongshan,0.91,"Dupont-Nivet et al., 2010",Hem?,EI,"These are corrections of data of other people, excluding Subei of Tauxe, 2010"
+Santa Fe Group,0.86,"Brandt et al., 2009",Hem,EI,
+Gonjo Basin Group 1,0.46,"Vaes et al., 2021",Hem,EI,
+Gonjo Basin Group 2,0.56,"Vaes et al., 2021",Hem,EI,
+Gonjo Basin Group 3,0.61,"Vaes et al., 2021",Hem,EI,
+Gonjo Basin Group 5,0.49,"Vaes et al., 2021",Hem,EI,
+Gonjo Basin Group 8,0.51,"Vaes et al., 2021",Hem,EI,
+Gonjo Basin Group 9,0.62,"Vaes et al., 2021",Hem,EI,
