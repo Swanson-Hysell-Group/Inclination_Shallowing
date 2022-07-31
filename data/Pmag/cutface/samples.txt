@@ -1,181 +1,181 @@
-tab	samples												
-analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	citations	dip	geologic_classes	geologic_types	height	lithologies	method_codes	sample	site
-James Pierce	137.5	0	9.98	166.5	This study	-2			1.1		SO-CMD-NORTH	CF-1	CF
-James Pierce	22.5	0	9.98	166.5	This study	-7			1.5		SO-CMD-NORTH	CF-2	CF
-James Pierce	125.5	0	9.98	166.5	This study	-4			1.8		SO-CMD-NORTH	CF-3	CF
-James Pierce	-37.5	0	9.98	166.5	This study	-2			2.2		SO-CMD-NORTH	CF-4	CF
-James Pierce	10.5	0	9.98	166.5	This study	-4			2.6		SO-CMD-NORTH	CF-5	CF
-James Pierce	-15.5	0	9.98	166.5	This study	-3			3.3		SO-CMD-NORTH	CF-6	CF
-James Pierce	-5.5	0	9.98	166.5	This study	-8			3.7		SO-CMD-NORTH	CF-7	CF
-James Pierce	14.5	0	9.98	166.5	This study	-4			4.1		SO-CMD-NORTH	CF-8	CF
-James Pierce	94.5	0	9.98	166.5	This study	-44			5.4		SO-CMD-NORTH	CF-9	CF
-James Pierce	107.5	0	9.98	166.5	This study	-80			5.8		SO-CMD-NORTH	CF-10	CF
-James Pierce	98.5	0	9.98	166.5	This study	-65			6.2		SO-CMD-NORTH	CF-11	CF
-James Pierce	102.5	0	9.98	166.5	This study	-67			6.7		SO-CMD-NORTH	CF-12	CF
-James Pierce	94.5	0	9.98	166.5	This study	-56			7.1		SO-CMD-NORTH	CF-13	CF
-James Pierce	90.5	0	9.98	166.5	This study	-49			7.6		SO-CMD-NORTH	CF-14	CF
-James Pierce	95.5	0	9.98	166.5	This study	-79			8		SO-CMD-NORTH	CF-15	CF
-James Pierce	12.5	0	9.98	166.5	This study	-84			8.2		SO-CMD-NORTH	CF-16	CF
-James Pierce	108.5	0	9.98	166.5	This study	-82			8.7		SO-CMD-NORTH	CF-17	CF
-James Pierce	102.5	0	9.98	166.5	This study	-92			9.1		SO-CMD-NORTH	CF-18	CF
-James Pierce	-38.2	0	9.98	166.5	This study	-5			10.7		SO-CMD-NORTH	CF-19	CF
-James Pierce	-32.5	0	9.98	166.5	This study	-9			11.1		SO-CMD-NORTH	CF-20	CF
-James Pierce	-68	0	9.98	166.5	This study	-5			11.3		SO-CMD-NORTH	CF-21	CF
-James Pierce	-17.5	0	9.98	166.5	This study	-8			11.4		SO-CMD-NORTH	CF-22	CF
-James Pierce	-49.5	0	9.98	166.5	This study	-10			11.8		SO-CMD-NORTH	CF-23	CF
-James Pierce	-33.5	0	9.98	166.5	This study	-16			13		SO-CMD-NORTH	CF-24	CF
-James Pierce	-86	0	9.98	166.5	This study	-5			15		SO-CMD-NORTH	CF-25	CF
-James Pierce	-41.3	0	9.98	166.5	This study	-9			15.5		SO-CMD-NORTH	CF-26	CF
-James Pierce	195.5	0	9.98	166.5	This study	-83			16		SO-CMD-NORTH	CF-27	CF
-James Pierce	226.1	0	9.98	166.5	This study	-55			16.4		SO-CMD-NORTH	CF-28	CF
-James Pierce	-15.5	0	9.98	166.5	This study	-8			17.2		SO-CMD-NORTH	CF-29	CF
-James Pierce	11.5	0	9.98	166.5	This study	-18			17.8		SO-CMD-NORTH	CF-30	CF
-James Pierce	-72.5	0	9.98	166.5	This study	-2			18		SO-CMD-NORTH	CF-31	CF
-James Pierce	174.5	0	9.98	166.5	This study	-55			18.6		SO-CMD-NORTH	CF-33	CF
-James Pierce	185.5	0	9.98	166.5	This study	-47			19.2		SO-CMD-NORTH	CF-35	CF
-James Pierce	185.5	0	9.98	166.5	This study	-75			19.6		SO-CMD-NORTH	CF-36	CF
-James Pierce	102.5	0	9.98	166.5	This study	-62			20		SO-CMD-NORTH	CF-37	CF
-James Pierce	176.5	0	9.98	166.5	This study	-60			20.2		SO-CMD-NORTH	CF-38	CF
-James Pierce	182.5	0	9.98	166.5	This study	-72			20.3		SO-CMD-NORTH	CF-39	CF
-James Pierce	182.5	0	9.98	166.5	This study	-88			20.5		SO-CMD-NORTH	CF-40	CF
-James Pierce	179.5	0	9.98	166.5	This study	-73			20.6		SO-CMD-NORTH	CF-41	CF
-James Pierce	185.5	0	9.98	166.5	This study	-57			20.9		SO-CMD-NORTH	CF-43	CF
-James Pierce	179.5	0	9.98	166.5	This study	-57			21.2		SO-CMD-NORTH	CF-44	CF
-James Pierce	177.5	0	9.98	166.5	This study	-50			21.7		SO-CMD-NORTH	CF-45	CF
-James Pierce	182.5	0	9.98	166.5	This study	-68			22.2		SO-CMD-NORTH	CF-46	CF
-James Pierce	186.5	0	9.98	166.5	This study	-80			22.3		SO-CMD-NORTH	CF-47	CF
-James Pierce	179.5	0	9.98	166.5	This study	-64			22.4		SO-CMD-NORTH	CF-48	CF
-James Pierce	172.5	0	9.98	166.5	This study	-65			22.8		SO-CMD-NORTH	CF-49	CF
-James Pierce	177.5	0	9.98	166.5	This study	-70			23.1		SO-CMD-NORTH	CF-50	CF
-James Pierce	182.5	0	9.98	166.5	This study	-72			23.4		SO-CMD-NORTH	CF-51	CF
-James Pierce	267.8	0	9.98	166.5	This study	-72			24.6		SO-CMD-NORTH	CF-52	CF
-James Pierce	265.4	0	9.98	166.5	This study	-78			25		SO-CMD-NORTH	CF-53	CF
-James Pierce	-79.8	0	9.98	166.5	This study	-77			25.4		SO-CMD-NORTH	CF-54	CF
-James Pierce	-70	0	9.98	166.5	This study	-83			26.3		SO-CMD-NORTH	CF-56	CF
-James Pierce	245.1	0	9.98	166.5	This study	-71			26.9		SO-CMD-NORTH	CF-57	CF
-James Pierce	230.4	0	9.98	166.5	This study	-80			27.2		SO-CMD-NORTH	CF-58	CF
-James Pierce	-60.1	0	9.98	166.5	This study	-104			27.7		SO-CMD-NORTH	CF-59	CF
-James Pierce	-65	0	9.98	166.5	This study	-77			28.3		SO-CMD-NORTH	CF-60	CF
-James Pierce	-62.1	0	9.98	166.5	This study	-79			28.5		SO-CMD-NORTH	CF-61	CF
-James Pierce	-53.2	0	9.98	166.5	This study	-88			28.9		SO-CMD-NORTH	CF-62	CF
-James Pierce	-63	0	9.98	166.5	This study	-77			29.3		SO-CMD-NORTH	CF-63	CF
-James Pierce	-89.3	0	9.98	166.5	This study	-99			30		SO-CMD-NORTH	CF-64	CF
-James Pierce	-68.6	0	9.98	166.5	This study	-90			30.3		SO-CMD-NORTH	CF-65	CF
-James Pierce	-72.5	0	9.98	166.5	This study	-104			30.6		SO-CMD-NORTH	CF-66	CF
-James Pierce	-84.5	0	9.98	166.5	This study	-86			31		SO-CMD-NORTH	CF-67	CF
-James Pierce	-32.4	0	9.98	166.5	This study	-95			31.3		SO-CMD-NORTH	CF-68	CF
-James Pierce	-64.4	0	9.98	166.5	This study	-74			31.9		SO-CMD-NORTH	CF-69	CF
-James Pierce	-11	0	9.98	166.5	This study	-1			12.6		SO-CMD-NORTH	CF-70	CF
-James Pierce	-59.6	0	9.98	166.5	This study	-80			32.6		SO-CMD-NORTH	CF-71	CF
-James Pierce	-66.4	0	9.98	166.5	This study	-84			32.9		SO-CMD-NORTH	CF-72	CF
-James Pierce	-58.5	0	9.98	166.5	This study	-85			33.3		SO-CMD-NORTH	CF-73	CF
-James Pierce	-34.2	0	9.98	166.5	This study	-103			33.7		SO-CMD-NORTH	CF-74	CF
-James Pierce	-72.8	0	9.98	166.5	This study	-83			33.9		SO-CMD-NORTH	CF-75	CF
-James Pierce	-72.4	0	9.98	166.5	This study	-83			34.2		SO-CMD-NORTH	CF-76	CF
-James Pierce	-48.5	0	9.98	166.5	This study	-90			34.6		SO-CMD-NORTH	CF-77	CF
-James Pierce	-67.5	0	9.98	166.5	This study	-89			35		SO-CMD-NORTH	CF-78	CF
-James Pierce	-86.5	0	9.98	166.5	This study	-90			35.3		SO-CMD-NORTH	CF-79	CF
-James Pierce	-64.5	0	9.98	166.5	This study	-82			35.6		SO-CMD-NORTH	CF-80	CF
-James Pierce	-74.3	0	9.98	166.5	This study	-75			36		SO-CMD-NORTH	CF-81	CF
-James Pierce	-52.2	0	9.98	166.5	This study	-93			36.6		SO-CMD-NORTH	CF-82	CF
-James Pierce	268.2	0	9.98	166.5	This study	-83			37.1		SO-CMD-NORTH	CF-83	CF
-James Pierce	-71	0	9.98	166.5	This study	-62			37.2		SO-CMD-NORTH	CF-84	CF
-James Pierce	-74	0	9.98	166.5	This study	-81			37.6		SO-CMD-NORTH	CF-85	CF
-James Pierce	-71.5	0	9.98	166.5	This study	-73			37.9		SO-CMD-NORTH	CF-86	CF
-James Pierce	-87.5	0	9.98	166.5	This study	-69			38.1		SO-CMD-NORTH	CF-87	CF
-James Pierce	-87.5	0	9.98	166.5	This study	-69			38.4		SO-CMD-NORTH	CF-88	CF
-James Pierce	-54.5	0	9.98	166.5	This study	-73			40.6		SO-CMD-NORTH	CF-89	CF
-James Pierce	265.5	0	9.98	166.5	This study	-76			41.8		SO-CMD-NORTH	CF-90	CF
-James Pierce	225.5	0	9.98	166.5	This study	-80			42.2		SO-CMD-NORTH	CF-91	CF
-James Pierce	259.5	0	9.98	166.5	This study	-63			42.4		SO-CMD-NORTH	CF-92	CF
-James Pierce	-86.5	0	9.98	166.5	This study	-93			43.7		SO-CMD-NORTH	CF-93	CF
-James Pierce	-85.5	0	9.98	166.5	This study	-93			43.75		SO-CMD-NORTH	CF-94	CF
-James Pierce	-77.5	0	9.98	166.5	This study	-86			43.85		SO-CMD-NORTH	CF-96	CF
-James Pierce	-89.5	0	9.98	166.5	This study	-85			45.8		SO-CMD-NORTH	CF-97	CF
-James Pierce	-43.5	0	9.98	166.5	This study	-50			46.2		SO-CMD-NORTH	CF-98	CF
-James Pierce	231.5	0	9.98	166.5	This study	-62			46.6		SO-CMD-NORTH	CF-99	CF
-James Pierce	-57.5	0	9.98	166.5	This study	-55			47		SO-CMD-NORTH	CF-100	CF
-James Pierce	-85	0	9.98	166.5	This study	-65			47.5		SO-CMD-NORTH	CF-101	CF
-James Pierce	-91.5	0	9.98	166.5	This study	-67			47.8		SO-CMD-NORTH	CF-102	CF
-James Pierce	-89.5	0	9.98	166.5	This study	-75			48.4		SO-CMD-NORTH	CF-103	CF
-James Pierce	-87.5	0	9.98	166.5	This study	-87			48.9		SO-CMD-NORTH	CF-104	CF
-James Pierce	-91.5	0	9.98	166.5	This study	-80			48.95		SO-CMD-NORTH	CF-105	CF
-James Pierce	-92.5	0	9.98	166.5	This study	-85			49.3		SO-CMD-NORTH	CF-106	CF
-James Pierce	-70.5	0	9.98	166.5	This study	-84			49.8		SO-CMD-NORTH	CF-107	CF
-James Pierce	262.5	0	9.98	166.5	This study	-80			50.4		SO-CMD-NORTH	CF-108	CF
-James Pierce	-64.5	0	9.98	166.5	This study	-86			50.8		SO-CMD-NORTH	CF-109	CF
-James Pierce	-86.5	0	9.98	166.5	This study	-88			51.7		SO-CMD-NORTH	CF-110	CF
-James Pierce	264.5	0	9.98	166.5	This study	-90			51.8		SO-CMD-NORTH	CF-111	CF
-James Pierce	253.5	0	9.98	166.5	This study	-80			52.1		SO-CMD-NORTH	CF-112	CF
-James Pierce	-85.5	0	9.98	166.5	This study	-92			52.2		SO-CMD-NORTH	CF-113	CF
-James Pierce	262.5	0	9.98	166.5	This study	-94			52.9		SO-CMD-NORTH	CF-114	CF
-James Pierce	-66.5	0	9.98	166.5	This study	-92			53.4		SO-CMD-NORTH	CF-115	CF
-James Pierce	-72.5	0	9.98	166.5	This study	-96			53.9		SO-CMD-NORTH	CF-116	CF
-James Pierce	-66.5	0	9.98	166.5	This study	-96			54.2		SO-CMD-NORTH	CF-117	CF
-James Pierce	243.5	0	9.98	166.5	This study	-87			54.8		SO-CMD-NORTH	CF-118	CF
-James Pierce	-83.5	0	9.98	166.5	This study	-88			55.2		SO-CMD-NORTH	CF-119	CF
-James Pierce	-76.5	0	9.98	166.5	This study	-83			55.5		SO-CMD-NORTH	CF-120	CF
-James Pierce	-77.5	0	9.98	166.5	This study	-97			55.8		SO-CMD-NORTH	CF-121	CF
-James Pierce	262.5	0	9.98	166.5	This study	-92			56		SO-CMD-NORTH	CF-122	CF
-James Pierce	-85.5	0	9.98	166.5	This study	-78			56.3		SO-CMD-NORTH	CF-123	CF
-James Pierce	218.5	0	9.98	166.5	This study	-68			56.5		SO-CMD-NORTH	CF-124	CF
-James Pierce	-70.5	0	9.98	166.5	This study	-86			56.7		SO-CMD-NORTH	CF-125	CF
-James Pierce	-62.5	0	9.98	166.5	This study	-62			57		SO-CMD-NORTH	CF-126	CF
-James Pierce	-81.5	0	9.98	166.5	This study	-94			57.4		SO-CMD-NORTH	CF-127	CF
-James Pierce	259.5	0	9.98	166.5	This study	-87			57.9		SO-CMD-NORTH	CF-128	CF
-James Pierce	-18.5	0	9.98	166.5	This study	-82			59.6		SO-CMD-NORTH	CF-129	CF
-James Pierce	-82.5	0	9.98	166.5	This study	-73			59.9		SO-CMD-NORTH	CF-130	CF
-James Pierce	243.5	0	9.98	166.5	This study	-76			60.2		SO-CMD-NORTH	CF-131	CF
-James Pierce	247.5	0	9.98	166.5	This study	-74			60.7		SO-CMD-NORTH	CF-132	CF
-James Pierce	-65.5	0	9.98	166.5	This study	-96			61.1		SO-CMD-NORTH	CF-133	CF
-James Pierce	-74.1	0	9.98	166.5	This study	-79			62		SO-CMD-NORTH	CF-134	CF
-James Pierce	267.6	0	9.98	166.5	This study	-82			62.4		SO-CMD-NORTH	CF-135	CF
-James Pierce	-80.4	0	9.98	166.5	This study	-90			62.8		SO-CMD-NORTH	CF-136	CF
-James Pierce	258.8	0	9.98	166.5	This study	-91			63.3		SO-CMD-NORTH	CF-137	CF
-James Pierce	-77.8	0	9.98	166.5	This study	-89			63.9		SO-CMD-NORTH	CF-138	CF
-James Pierce	-80.3	0	9.98	166.5	This study	-89			64.2		SO-CMD-NORTH	CF-139	CF
-James Pierce	254.5	0	9.98	166.5	This study	-78			64.7		SO-CMD-NORTH	CF-140	CF
-James Pierce	249.7	0	9.98	166.5	This study	-85			65.4		SO-CMD-NORTH	CF-141	CF
-James Pierce	263.5	0	9.98	166.5	This study	-85			65.8		SO-CMD-NORTH	CF-142	CF
-James Pierce	258.7	0	9.98	166.5	This study	-69			66.2		SO-CMD-NORTH	CF-143	CF
-James Pierce	-85.9	0	9.98	166.5	This study	-83			67.1		SO-CMD-NORTH	CF-144	CF
-James Pierce	-83.9	0	9.98	166.5	This study	-85			67.3		SO-CMD-NORTH	CF-145	CF
-James Pierce	261.5	0	9.98	166.5	This study	-93			68.5		SO-CMD-NORTH	CF-146	CF
-James Pierce	-80.5	0	9.98	166.5	This study	-81			68.9		SO-CMD-NORTH	CF-147	CF
-James Pierce	260.5	0	9.98	166.5	This study	-84			69.9		SO-CMD-NORTH	CF-148	CF
-James Pierce	261.5	0	9.98	166.5	This study	-90			70.3		SO-CMD-NORTH	CF-149	CF
-James Pierce	-76.5	0	9.98	166.5	This study	-80			70.4		SO-CMD-NORTH	CF-150	CF
-James Pierce	265.5	0	9.98	166.5	This study	-93			70.6		SO-CMD-NORTH	CF-151	CF
-James Pierce	256.5	0	9.98	166.5	This study	-81			71.9		SO-CMD-NORTH	CF-152	CF
-James Pierce	-58.5	0	9.98	166.5	This study	-95			72.6		SO-CMD-NORTH	CF-153	CF
-James Pierce	-75.5	0	9.98	166.5	This study	-94			73		SO-CMD-NORTH	CF-154	CF
-James Pierce	-72.5	0	9.98	166.5	This study	-89			73.5		SO-CMD-NORTH	CF-155	CF
-James Pierce	-1.5	0	9.98	166.5	This study	-87			73.9		SO-CMD-NORTH	CF-156	CF
-James Pierce	-78.5	0	9.98	166.5	This study	-83			75		SO-CMD-NORTH	CF-157	CF
-James Pierce	259.5	0	9.98	166.5	This study	-86			75.8		SO-CMD-NORTH	CF-158	CF
-James Pierce	264.5	0	9.98	166.5	This study	-91			76.1		SO-CMD-NORTH	CF-159	CF
-James Pierce	-83.5	0	9.98	166.5	This study	-84			76.8		SO-CMD-NORTH	CF-160	CF
-James Pierce	265.5	0	9.98	166.5	This study	-78			77.5		SO-CMD-NORTH	CF-161	CF
-James Pierce	-83.5	0	9.98	166.5	This study	-83			78.1		SO-CMD-NORTH	CF-162	CF
-James Pierce	264.5	0	9.98	166.5	This study	-73			78.7		SO-CMD-NORTH	CF-163	CF
-James Pierce	265.5	0	9.98	166.5	This study	-82			79.6		SO-CMD-NORTH	CF-164	CF
-James Pierce	-86.5	0	9.98	166.5	This study	-81			80.2		SO-CMD-NORTH	CF-165	CF
-James Pierce	-69.5	0	9.98	166.5	This study	-88			80.6		SO-CMD-NORTH	CF-166	CF
-James Pierce	-77.5	0	9.98	166.5	This study	-85			81.1		SO-CMD-NORTH	CF-167	CF
-James Pierce	-78.5	0	9.98	166.5	This study	-86			81.6		SO-CMD-NORTH	CF-168	CF
-James Pierce	266.5	0	9.98	166.5	This study	-85			82.4		SO-CMD-NORTH	CF-169	CF
-James Pierce	266.5	0	9.98	166.5	This study	-82			82.9		SO-CMD-NORTH	CF-170	CF
-James Pierce	-92.5	0	9.98	166.5	This study	-81			84.1		SO-CMD-NORTH	CF-172	CF
-James Pierce	250.5	0	9.98	166.5	This study	-89			85		SO-CMD-NORTH	CF-173	CF
-James Pierce	-88.5	0	9.98	166.5	This study	-80			86.1		SO-CMD-NORTH	CF-174	CF
-James Pierce	-85.5	0	9.98	166.5	This study	-87			86.9		SO-CMD-NORTH	CF-175	CF
-James Pierce	-78.5	0	9.98	166.5	This study	-81			87.3		SO-CMD-NORTH	CF-176	CF
-James Pierce	-88.5	0	9.98	166.5	This study	-89			88		SO-CMD-NORTH	CF-177	CF
-James Pierce	-83.5	0	9.98	166.5	This study	-88			88.9		SO-CMD-NORTH	CF-178	CF
-James Pierce	-86.5	0	9.98	166.5	This study	-85			89.7		SO-CMD-NORTH	CF-179	CF
-James Pierce	56.5	0	9.98	166.5	This study	-83			90.2		SO-CMD-NORTH	CF-180	CF
-James Pierce	262.5	0	9.98	166.5	This study	-75			91		SO-CMD-NORTH	CF-181	CF
-James Pierce	-65.5	0	9.98	166.5	This study	-83			91.5		SO-CMD-NORTH	CF-182	CF
-James Pierce	236.5	0	9.98	166.5	This study	-77			92.3		SO-CMD-NORTH	CF-183	CF
-James Pierce	262.5	0	9.98	166.5	This study	-80			94.1		SO-CMD-NORTH	CF-185	CF
-James Pierce	-85.5	0	9.98	166.5	This study	-74			94.6		SO-CMD-NORTH	CF-186	CF
+tab	samples
+sample	site	height	lat	lon	geologic_classes	geologic_types	lithologies	analysts	azimuth	azimuth_dec_correction	bed_dip	bed_dip_direction	dip	citations	method_codes	result_quality	result_type
+CF-1	CF	1.1			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	137.5	0.0	9.98	166.5	-2	This study	SO-CMD-NORTH	g	i
+CF-2	CF	1.5			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	22.5	0.0	9.98	166.5	-7	This study	SO-CMD-NORTH	g	i
+CF-3	CF	1.8			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	125.5	0.0	9.98	166.5	-4	This study	SO-CMD-NORTH	g	i
+CF-4	CF	2.2			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	322.5	0.0	9.98	166.5	-2	This study	SO-CMD-NORTH	g	i
+CF-5	CF	2.6			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	10.5	0.0	9.98	166.5	-4	This study	SO-CMD-NORTH	g	i
+CF-6	CF	3.3			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	344.5	0.0	9.98	166.5	-3	This study	SO-CMD-NORTH	g	i
+CF-7	CF	3.7			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	354.5	0.0	9.98	166.5	-8	This study	SO-CMD-NORTH	g	i
+CF-8	CF	4.1			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	14.5	0.0	9.98	166.5	-4	This study	SO-CMD-NORTH	g	i
+CF-9	CF	5.4			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	94.5	0.0	9.98	166.5	-44	This study	SO-CMD-NORTH	g	i
+CF-10	CF	5.8			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	107.5	0.0	9.98	166.5	-80	This study	SO-CMD-NORTH	g	i
+CF-11	CF	6.2			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	98.5	0.0	9.98	166.5	-65	This study	SO-CMD-NORTH	g	i
+CF-12	CF	6.7			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	102.5	0.0	9.98	166.5	-67	This study	SO-CMD-NORTH	g	i
+CF-13	CF	7.1			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	94.5	0.0	9.98	166.5	-56	This study	SO-CMD-NORTH	g	i
+CF-14	CF	7.6			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	90.5	0.0	9.98	166.5	-49	This study	SO-CMD-NORTH	g	i
+CF-15	CF	8			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	95.5	0.0	9.98	166.5	-79	This study	SO-CMD-NORTH	g	i
+CF-16	CF	8.2			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	12.5	0.0	9.98	166.5	-84	This study	SO-CMD-NORTH	g	i
+CF-17	CF	8.7			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	108.5	0.0	9.98	166.5	-82	This study	SO-CMD-NORTH	g	i
+CF-18	CF	9.1			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	102.5	0.0	9.98	166.5	-92	This study	SO-CMD-NORTH	g	i
+CF-19	CF	10.7			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	321.8	0.0	9.98	166.5	-5	This study	SO-CMD-NORTH	g	i
+CF-20	CF	11.1			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	327.5	0.0	9.98	166.5	-9	This study	SO-CMD-NORTH	g	i
+CF-21	CF	11.3			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	292.0	0.0	9.98	166.5	-5	This study	SO-CMD-NORTH	g	i
+CF-22	CF	11.4			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	342.5	0.0	9.98	166.5	-8	This study	SO-CMD-NORTH	g	i
+CF-23	CF	11.8			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	310.5	0.0	9.98	166.5	-10	This study	SO-CMD-NORTH	g	i
+CF-24	CF	13			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	326.5	0.0	9.98	166.5	-16	This study	SO-CMD-NORTH	g	i
+CF-25	CF	15			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	274.0	0.0	9.98	166.5	-5	This study	SO-CMD-NORTH	g	i
+CF-26	CF	15.5			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	318.7	0.0	9.98	166.5	-9	This study	SO-CMD-NORTH	g	i
+CF-27	CF	16			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	195.5	0.0	9.98	166.5	-83	This study	SO-CMD-NORTH	g	i
+CF-28	CF	16.4			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	226.1	0.0	9.98	166.5	-55	This study	SO-CMD-NORTH	g	i
+CF-29	CF	17.2			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	344.5	0.0	9.98	166.5	-8	This study	SO-CMD-NORTH	g	i
+CF-30	CF	17.8			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	11.5	0.0	9.98	166.5	-18	This study	SO-CMD-NORTH	g	i
+CF-31	CF	18			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	287.5	0.0	9.98	166.5	-2	This study	SO-CMD-NORTH	g	i
+CF-33	CF	18.6			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	174.5	0.0	9.98	166.5	-55	This study	SO-CMD-NORTH	g	i
+CF-35	CF	19.2			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	185.5	0.0	9.98	166.5	-47	This study	SO-CMD-NORTH	g	i
+CF-36	CF	19.6			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	185.5	0.0	9.98	166.5	-75	This study	SO-CMD-NORTH	g	i
+CF-37	CF	20			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	102.5	0.0	9.98	166.5	-62	This study	SO-CMD-NORTH	g	i
+CF-38	CF	20.2			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	176.5	0.0	9.98	166.5	-60	This study	SO-CMD-NORTH	g	i
+CF-39	CF	20.3			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	182.5	0.0	9.98	166.5	-72	This study	SO-CMD-NORTH	g	i
+CF-40	CF	20.5			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	182.5	0.0	9.98	166.5	-88	This study	SO-CMD-NORTH	g	i
+CF-41	CF	20.6			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	179.5	0.0	9.98	166.5	-73	This study	SO-CMD-NORTH	g	i
+CF-43	CF	20.9			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	185.5	0.0	9.98	166.5	-57	This study	SO-CMD-NORTH	g	i
+CF-44	CF	21.2			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	179.5	0.0	9.98	166.5	-57	This study	SO-CMD-NORTH	g	i
+CF-45	CF	21.7			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	177.5	0.0	9.98	166.5	-50	This study	SO-CMD-NORTH	g	i
+CF-46	CF	22.2			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	182.5	0.0	9.98	166.5	-68	This study	SO-CMD-NORTH	g	i
+CF-47	CF	22.3			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	186.5	0.0	9.98	166.5	-80	This study	SO-CMD-NORTH	g	i
+CF-48	CF	22.4			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	179.5	0.0	9.98	166.5	-64	This study	SO-CMD-NORTH	g	i
+CF-49	CF	22.8			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	172.5	0.0	9.98	166.5	-65	This study	SO-CMD-NORTH	g	i
+CF-50	CF	23.1			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	177.5	0.0	9.98	166.5	-70	This study	SO-CMD-NORTH	g	i
+CF-51	CF	23.4			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	182.5	0.0	9.98	166.5	-72	This study	SO-CMD-NORTH	g	i
+CF-52	CF	24.6			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	267.8	0.0	9.98	166.5	-72	This study	SO-CMD-NORTH	g	i
+CF-53	CF	25			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	265.4	0.0	9.98	166.5	-78	This study	SO-CMD-NORTH	g	i
+CF-54	CF	25.4			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	280.2	0.0	9.98	166.5	-77	This study	SO-CMD-NORTH	g	i
+CF-56	CF	26.3			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	290.0	0.0	9.98	166.5	-83	This study	SO-CMD-NORTH	g	i
+CF-57	CF	26.9			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	245.1	0.0	9.98	166.5	-71	This study	SO-CMD-NORTH	g	i
+CF-58	CF	27.2			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	230.4	0.0	9.98	166.5	-80	This study	SO-CMD-NORTH	g	i
+CF-59	CF	27.7			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	299.9	0.0	9.98	166.5	-104	This study	SO-CMD-NORTH	g	i
+CF-60	CF	28.3			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	295.0	0.0	9.98	166.5	-77	This study	SO-CMD-NORTH	g	i
+CF-61	CF	28.5			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	297.9	0.0	9.98	166.5	-79	This study	SO-CMD-NORTH	g	i
+CF-62	CF	28.9			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	306.8	0.0	9.98	166.5	-88	This study	SO-CMD-NORTH	g	i
+CF-63	CF	29.3			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	297.0	0.0	9.98	166.5	-77	This study	SO-CMD-NORTH	g	i
+CF-64	CF	30			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	270.7	0.0	9.98	166.5	-99	This study	SO-CMD-NORTH	g	i
+CF-65	CF	30.3			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	291.4	0.0	9.98	166.5	-90	This study	SO-CMD-NORTH	g	i
+CF-66	CF	30.6			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	287.5	0.0	9.98	166.5	-104	This study	SO-CMD-NORTH	g	i
+CF-67	CF	31			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	275.5	0.0	9.98	166.5	-86	This study	SO-CMD-NORTH	g	i
+CF-68	CF	31.3			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	327.6	0.0	9.98	166.5	-95	This study	SO-CMD-NORTH	g	i
+CF-69	CF	31.9			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	295.6	0.0	9.98	166.5	-74	This study	SO-CMD-NORTH	g	i
+CF-70	CF	12.6			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	349.0	0.0	9.98	166.5	-1	This study	SO-CMD-NORTH	g	i
+CF-71	CF	32.6			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	300.4	0.0	9.98	166.5	-80	This study	SO-CMD-NORTH	g	i
+CF-72	CF	32.9			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	293.6	0.0	9.98	166.5	-84	This study	SO-CMD-NORTH	g	i
+CF-73	CF	33.3			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	301.5	0.0	9.98	166.5	-85	This study	SO-CMD-NORTH	g	i
+CF-74	CF	33.7			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	325.8	0.0	9.98	166.5	-103	This study	SO-CMD-NORTH	g	i
+CF-75	CF	33.9			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	287.2	0.0	9.98	166.5	-83	This study	SO-CMD-NORTH	g	i
+CF-76	CF	34.2			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	287.6	0.0	9.98	166.5	-83	This study	SO-CMD-NORTH	g	i
+CF-77	CF	34.6			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	311.5	0.0	9.98	166.5	-90	This study	SO-CMD-NORTH	g	i
+CF-78	CF	35			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	292.5	0.0	9.98	166.5	-89	This study	SO-CMD-NORTH	g	i
+CF-79	CF	35.3			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	273.5	0.0	9.98	166.5	-90	This study	SO-CMD-NORTH	g	i
+CF-80	CF	35.6			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	295.5	0.0	9.98	166.5	-82	This study	SO-CMD-NORTH	g	i
+CF-81	CF	36			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	285.7	0.0	9.98	166.5	-75	This study	SO-CMD-NORTH	g	i
+CF-82	CF	36.6			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	307.8	0.0	9.98	166.5	-93	This study	SO-CMD-NORTH	g	i
+CF-83	CF	37.1			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	268.2	0.0	9.98	166.5	-83	This study	SO-CMD-NORTH	g	i
+CF-84	CF	37.2			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	289.0	0.0	9.98	166.5	-62	This study	SO-CMD-NORTH	g	i
+CF-85	CF	37.6			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	286.0	0.0	9.98	166.5	-81	This study	SO-CMD-NORTH	g	i
+CF-86	CF	37.9			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	288.5	0.0	9.98	166.5	-73	This study	SO-CMD-NORTH	g	i
+CF-87	CF	38.1			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	272.5	0.0	9.98	166.5	-69	This study	SO-CMD-NORTH	g	i
+CF-88	CF	38.4			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	272.5	0.0	9.98	166.5	-69	This study	SO-CMD-NORTH	g	i
+CF-89	CF	40.6			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	305.5	0.0	9.98	166.5	-73	This study	SO-CMD-NORTH	g	i
+CF-90	CF	41.8			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	265.5	0.0	9.98	166.5	-76	This study	SO-CMD-NORTH	g	i
+CF-91	CF	42.2			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	225.5	0.0	9.98	166.5	-80	This study	SO-CMD-NORTH	g	i
+CF-92	CF	42.4			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	259.5	0.0	9.98	166.5	-63	This study	SO-CMD-NORTH	g	i
+CF-93	CF	43.7			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	273.5	0.0	9.98	166.5	-93	This study	SO-CMD-NORTH	g	i
+CF-94	CF	43.75			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	274.5	0.0	9.98	166.5	-93	This study	SO-CMD-NORTH	g	i
+CF-96	CF	43.85			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	282.5	0.0	9.98	166.5	-86	This study	SO-CMD-NORTH	g	i
+CF-97	CF	45.8			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	270.5	0.0	9.98	166.5	-85	This study	SO-CMD-NORTH	g	i
+CF-98	CF	46.2			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	316.5	0.0	9.98	166.5	-50	This study	SO-CMD-NORTH	g	i
+CF-99	CF	46.6			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	231.5	0.0	9.98	166.5	-62	This study	SO-CMD-NORTH	g	i
+CF-100	CF	47			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	302.5	0.0	9.98	166.5	-55	This study	SO-CMD-NORTH	g	i
+CF-101	CF	47.5			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	275.0	0.0	9.98	166.5	-65	This study	SO-CMD-NORTH	g	i
+CF-102	CF	47.8			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	268.5	0.0	9.98	166.5	-67	This study	SO-CMD-NORTH	g	i
+CF-103	CF	48.4			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	270.5	0.0	9.98	166.5	-75	This study	SO-CMD-NORTH	g	i
+CF-104	CF	48.9			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	272.5	0.0	9.98	166.5	-87	This study	SO-CMD-NORTH	g	i
+CF-105	CF	48.95			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	268.5	0.0	9.98	166.5	-80	This study	SO-CMD-NORTH	g	i
+CF-106	CF	49.3			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	267.5	0.0	9.98	166.5	-85	This study	SO-CMD-NORTH	g	i
+CF-107	CF	49.8			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	289.5	0.0	9.98	166.5	-84	This study	SO-CMD-NORTH	g	i
+CF-108	CF	50.4			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	262.5	0.0	9.98	166.5	-80	This study	SO-CMD-NORTH	g	i
+CF-109	CF	50.8			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	295.5	0.0	9.98	166.5	-86	This study	SO-CMD-NORTH	g	i
+CF-110	CF	51.7			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	273.5	0.0	9.98	166.5	-88	This study	SO-CMD-NORTH	g	i
+CF-111	CF	51.8			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	264.5	0.0	9.98	166.5	-90	This study	SO-CMD-NORTH	g	i
+CF-112	CF	52.1			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	253.5	0.0	9.98	166.5	-80	This study	SO-CMD-NORTH	g	i
+CF-113	CF	52.2			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	274.5	0.0	9.98	166.5	-92	This study	SO-CMD-NORTH	g	i
+CF-114	CF	52.9			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	262.5	0.0	9.98	166.5	-94	This study	SO-CMD-NORTH	g	i
+CF-115	CF	53.4			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	293.5	0.0	9.98	166.5	-92	This study	SO-CMD-NORTH	g	i
+CF-116	CF	53.9			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	287.5	0.0	9.98	166.5	-96	This study	SO-CMD-NORTH	g	i
+CF-117	CF	54.2			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	293.5	0.0	9.98	166.5	-96	This study	SO-CMD-NORTH	g	i
+CF-118	CF	54.8			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	243.5	0.0	9.98	166.5	-87	This study	SO-CMD-NORTH	g	i
+CF-119	CF	55.2			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	276.5	0.0	9.98	166.5	-88	This study	SO-CMD-NORTH	g	i
+CF-120	CF	55.5			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	283.5	0.0	9.98	166.5	-83	This study	SO-CMD-NORTH	g	i
+CF-121	CF	55.8			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	282.5	0.0	9.98	166.5	-97	This study	SO-CMD-NORTH	g	i
+CF-122	CF	56			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	262.5	0.0	9.98	166.5	-92	This study	SO-CMD-NORTH	g	i
+CF-123	CF	56.3			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	274.5	0.0	9.98	166.5	-78	This study	SO-CMD-NORTH	g	i
+CF-124	CF	56.5			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	218.5	0.0	9.98	166.5	-68	This study	SO-CMD-NORTH	g	i
+CF-125	CF	56.7			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	289.5	0.0	9.98	166.5	-86	This study	SO-CMD-NORTH	g	i
+CF-126	CF	57			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	297.5	0.0	9.98	166.5	-62	This study	SO-CMD-NORTH	g	i
+CF-127	CF	57.4			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	278.5	0.0	9.98	166.5	-94	This study	SO-CMD-NORTH	g	i
+CF-128	CF	57.9			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	259.5	0.0	9.98	166.5	-87	This study	SO-CMD-NORTH	g	i
+CF-129	CF	59.6			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	341.5	0.0	9.98	166.5	-82	This study	SO-CMD-NORTH	g	i
+CF-130	CF	59.9			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	277.5	0.0	9.98	166.5	-73	This study	SO-CMD-NORTH	g	i
+CF-131	CF	60.2			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	243.5	0.0	9.98	166.5	-76	This study	SO-CMD-NORTH	g	i
+CF-132	CF	60.7			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	247.5	0.0	9.98	166.5	-74	This study	SO-CMD-NORTH	g	i
+CF-133	CF	61.1			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	294.5	0.0	9.98	166.5	-96	This study	SO-CMD-NORTH	g	i
+CF-134	CF	62			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	285.9	0.0	9.98	166.5	-79	This study	SO-CMD-NORTH	g	i
+CF-135	CF	62.4			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	267.6	0.0	9.98	166.5	-82	This study	SO-CMD-NORTH	g	i
+CF-136	CF	62.8			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	279.6	0.0	9.98	166.5	-90	This study	SO-CMD-NORTH	g	i
+CF-137	CF	63.3			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	258.8	0.0	9.98	166.5	-91	This study	SO-CMD-NORTH	g	i
+CF-138	CF	63.9			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	282.2	0.0	9.98	166.5	-89	This study	SO-CMD-NORTH	g	i
+CF-139	CF	64.2			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	279.7	0.0	9.98	166.5	-89	This study	SO-CMD-NORTH	g	i
+CF-140	CF	64.7			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	254.5	0.0	9.98	166.5	-78	This study	SO-CMD-NORTH	g	i
+CF-141	CF	65.4			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	249.7	0.0	9.98	166.5	-85	This study	SO-CMD-NORTH	g	i
+CF-142	CF	65.8			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	263.5	0.0	9.98	166.5	-85	This study	SO-CMD-NORTH	g	i
+CF-143	CF	66.2			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	258.7	0.0	9.98	166.5	-69	This study	SO-CMD-NORTH	g	i
+CF-144	CF	67.1			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	274.1	0.0	9.98	166.5	-83	This study	SO-CMD-NORTH	g	i
+CF-145	CF	67.3			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	276.1	0.0	9.98	166.5	-85	This study	SO-CMD-NORTH	g	i
+CF-146	CF	68.5			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	261.5	0.0	9.98	166.5	-93	This study	SO-CMD-NORTH	g	i
+CF-147	CF	68.9			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	279.5	0.0	9.98	166.5	-81	This study	SO-CMD-NORTH	g	i
+CF-148	CF	69.9			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	260.5	0.0	9.98	166.5	-84	This study	SO-CMD-NORTH	g	i
+CF-149	CF	70.3			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	261.5	0.0	9.98	166.5	-90	This study	SO-CMD-NORTH	g	i
+CF-150	CF	70.4			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	283.5	0.0	9.98	166.5	-80	This study	SO-CMD-NORTH	g	i
+CF-151	CF	70.6			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	265.5	0.0	9.98	166.5	-93	This study	SO-CMD-NORTH	g	i
+CF-152	CF	71.9			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	256.5	0.0	9.98	166.5	-81	This study	SO-CMD-NORTH	g	i
+CF-153	CF	72.6			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	301.5	0.0	9.98	166.5	-95	This study	SO-CMD-NORTH	g	i
+CF-154	CF	73			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	284.5	0.0	9.98	166.5	-94	This study	SO-CMD-NORTH	g	i
+CF-155	CF	73.5			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	287.5	0.0	9.98	166.5	-89	This study	SO-CMD-NORTH	g	i
+CF-156	CF	73.9			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	358.5	0.0	9.98	166.5	-87	This study	SO-CMD-NORTH	g	i
+CF-157	CF	75			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	281.5	0.0	9.98	166.5	-83	This study	SO-CMD-NORTH	g	i
+CF-158	CF	75.8			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	259.5	0.0	9.98	166.5	-86	This study	SO-CMD-NORTH	g	i
+CF-159	CF	76.1			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	264.5	0.0	9.98	166.5	-91	This study	SO-CMD-NORTH	g	i
+CF-160	CF	76.8			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	276.5	0.0	9.98	166.5	-84	This study	SO-CMD-NORTH	g	i
+CF-161	CF	77.5			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	265.5	0.0	9.98	166.5	-78	This study	SO-CMD-NORTH	g	i
+CF-162	CF	78.1			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	276.5	0.0	9.98	166.5	-83	This study	SO-CMD-NORTH	g	i
+CF-163	CF	78.7			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	264.5	0.0	9.98	166.5	-73	This study	SO-CMD-NORTH	g	i
+CF-164	CF	79.6			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	265.5	0.0	9.98	166.5	-82	This study	SO-CMD-NORTH	g	i
+CF-165	CF	80.2			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	273.5	0.0	9.98	166.5	-81	This study	SO-CMD-NORTH	g	i
+CF-166	CF	80.6			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	290.5	0.0	9.98	166.5	-88	This study	SO-CMD-NORTH	g	i
+CF-167	CF	81.1			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	282.5	0.0	9.98	166.5	-85	This study	SO-CMD-NORTH	g	i
+CF-168	CF	81.6			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	281.5	0.0	9.98	166.5	-86	This study	SO-CMD-NORTH	g	i
+CF-169	CF	82.4			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	266.5	0.0	9.98	166.5	-85	This study	SO-CMD-NORTH	g	i
+CF-170	CF	82.9			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	266.5	0.0	9.98	166.5	-82	This study	SO-CMD-NORTH	g	i
+CF-172	CF	84.1			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	267.5	0.0	9.98	166.5	-81	This study	SO-CMD-NORTH	g	i
+CF-173	CF	85			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	250.5	0.0	9.98	166.5	-89	This study	SO-CMD-NORTH	g	i
+CF-174	CF	86.1			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	271.5	0.0	9.98	166.5	-80	This study	SO-CMD-NORTH	g	i
+CF-175	CF	86.9			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	274.5	0.0	9.98	166.5	-87	This study	SO-CMD-NORTH	g	i
+CF-176	CF	87.3			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	281.5	0.0	9.98	166.5	-81	This study	SO-CMD-NORTH	g	i
+CF-177	CF	88			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	271.5	0.0	9.98	166.5	-89	This study	SO-CMD-NORTH	g	i
+CF-178	CF	88.9			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	276.5	0.0	9.98	166.5	-88	This study	SO-CMD-NORTH	g	i
+CF-179	CF	89.7			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	273.5	0.0	9.98	166.5	-85	This study	SO-CMD-NORTH	g	i
+CF-180	CF	90.2			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	56.5	0.0	9.98	166.5	-83	This study	SO-CMD-NORTH	g	i
+CF-181	CF	91			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	262.5	0.0	9.98	166.5	-75	This study	SO-CMD-NORTH	g	i
+CF-182	CF	91.5			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	294.5	0.0	9.98	166.5	-83	This study	SO-CMD-NORTH	g	i
+CF-183	CF	92.3			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	236.5	0.0	9.98	166.5	-77	This study	SO-CMD-NORTH	g	i
+CF-185	CF	94.1			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	262.5	0.0	9.98	166.5	-80	This study	SO-CMD-NORTH	g	i
+CF-186	CF	94.6			Sedimentary	Sediment Layer	Siltstone:Sandstone	James Pierce	274.5	0.0	9.98	166.5	-74	This study	SO-CMD-NORTH	g	i
