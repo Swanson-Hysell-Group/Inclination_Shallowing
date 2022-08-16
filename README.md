@@ -1,4 +1,14 @@
-# Code and data associated with the manuscript ``Quantifying inclination shallowing and representing flattening uncertainty in sedimentary paleomagnetic poles''
+# Quantifying inclination shallowing and representing flattening uncertainty in sedimentary paleomagnetic poles
+
+The repository contains code and data associated with the manuscript:
+
+*Quantifying inclination shallowing and representing flattening uncertainty in sedimentary paleomagnetic poles* 
+
+James Pierce<sup>1, 2</sup>,  Yiming Zhang<sup>1</sup>, Eben B. Hodgin<sup>1</sup>, and Nicholas L. Swanson-Hysell<sup>1</sup>
+
+<sup>1</sup>Department of Earth and Planetary Science, University of California, Berkeley, CA, USA
+<sup>2</sup>Department of Earth and Planetary Sciences, Yale University, New Haven, CT, USA
+
 
 ## code
 
