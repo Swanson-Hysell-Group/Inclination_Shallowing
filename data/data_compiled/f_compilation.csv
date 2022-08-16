@@ -10,10 +10,12 @@ Kent2005_5,Rutgers,red beds,0.66,0.57,0.73,"Kent and Tauxe, 2005",hematite,EI,33
 Kent2005_6,Somerset,red beds,0.63,0.53,0.73,"Kent and Tauxe, 2005",hematite,EI,309
 Kent2005_7,Weston,red beds,0.49,0.42,0.59,"Kent and Tauxe, 2005",hematite,EI,246
 Kent2005_8,Martinsville,red beds,0.49,0.42,0.59,"Kent and Tauxe, 2005",hematite,EI,302
+Kent2005_9,St. Audrie's Bay,red beds,0.68,0.59,1.02,"Kent and Tauxe, 2005",hematite,EI,27
 Kent2005_10,Jameson Land,red beds,0.58,0.47,0.81,"Kent and Tauxe, 2005",hematite,EI,222
 KentTauxe2008,Hartford,red beds,0.54,0.48,0.62,"Kent and Olson, 2008",hematite,EI,315
 Krijgsman2004,Calatayud basin,fluvial and lacustrine sediments,0.73,0.63,0.84,"Krijgsman and Tauxe, 2004",mixed,EI,648
 Krijgsman2006,Nanaimo,marine mud- and siltstones,0.97,0.79,1.05,"Krijgsman and Tauxe, 2006",magnetite,EI,143
+Van-Hinsbergen2007_1,Ag. Giorgios & Monolithos,palustrine and lacustrine sediments,0.84,0.46,1.03,"Van Hinsbergen et al., 2007",magnetite,EI,42
 Van-Hinsbergen2007_2,Kefala & Aspropetres,palustrine and lacustrine sediments,0.59,0.37,0.89,"Van Hinsbergen et al., 2007",magnetite,EI,75
 Tauxe2008,Nacimiento,claystones and siltstones,0.84,0.5,1.01,"Tauxe et al., 2008",hematite,EI,102
 Haldan2009_1,Dome de Barrot,red mudstone and purple siltstone,0.9,0.79,1.03,"Haldan et al., 2009",hematite,EI,411
@@ -51,9 +53,8 @@ Vaes2021_3,Gonjo 3,red beds,0.64,0.48,0.84,"Vaes et al., 2021",hematite,EI,129
 Vaes2021_4,Gonjo 4,red beds,0.47,0.35,0.64,"Vaes et al., 2021",hematite,EI,137
 Vaes2021_5,Gonjo 5,red beds,0.48,0.33,0.69,"Vaes et al., 2021",hematite,EI,156
 Vaes2021_6,Gonjo 6,red beds,0.44,0.31,0.62,"Vaes et al., 2021",hematite,EI,133
-Vaes2021_7,Gonjo 7,red beds,0.29,0.15,0.53,"Vaes et al., 2021",hematite,EI,113
-Vaes2021_8,Gonjo 8,red beds,0.52,0.41,0.7,"Vaes et al., 2021",hematite,EI,167
-Vaes2021_9,Gonjo 9,red beds,0.65,0.51,0.84,"Vaes et al., 2021",hematite,EI,167
+Vaes2021_7,Gonjo 7,red beds,0.52,0.41,0.7,"Vaes et al., 2021",hematite,EI,113
+Vaes2021_8,Gonjo 8,red beds,0.65,0.51,0.84,"Vaes et al., 2021",hematite,EI,167
 Li2022,Qubeiya and Jialazi Fms,"sandstone, siltstone, wackestone",0.81,0.62,0.99,"Li et al., 2022",magnetite,EI,87
 Pierce2022,Cut Face,red beds,0.64,0.5,0.86,"Pierce et al., 2022",hematite,EI,157
 Kodama1995,Pigeon Point,mud- silt- and sandstone,0.71,,,"Kodama and Davi, 1995",magnetite,anisotropy,
