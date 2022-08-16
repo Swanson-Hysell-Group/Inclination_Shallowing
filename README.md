@@ -1,4 +1,4 @@
-# Cut Face Creek Sandstone
+# Code and data associated with the manuscript ``Quantifying inclination shallowing and representing flattening uncertainty in sedimentary paleomagnetic poles''
 
 ## code
 
