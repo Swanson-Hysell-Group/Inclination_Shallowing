@@ -22,9 +22,17 @@ This notebook conducts data analysis and visualizations associated with the Cut 
 - the E/I relationship for the CRM and corrected DRM directions is calculated and plotted
 - the f values estimated for the empirical comparisons in the ```Cutface_common_mean_tests.ipynb``` notebook are plotted with that determined from the E/I method
 
+#### Cutface_Kent.ipynb
+
+This notebook develops the method that is now implemented in ```ipmag.find_ei_kent``` and described in the text in order to incorporate inclination flattening uncertainty in paleomagnetic poles. This approach takes the f factors that are output from E/I bootstraps to estimate the elliptical shape of the Kent distribution that can summarize the uncertainty associated with inclination shallowing. The notebook also implements a compilation based approach that develops this Kent distribution uncertainty estimate from resampling the f factors within the compilation developed in this study. This method is implemented in the ```ipmag.find_compilation_kent``` function.
+
+#### Inc_shallowing_compilation.ipynb
+
+This notebook compiles published estimated f factors from the literature. These data are then visualized with histograms and summarized in a table that is exported into the format within the Supporting Information.
+
 ## data
 
-This folder contains new paleomagentic data developed from the Cut Face Sandstone and compiled paleomagnetic data from the North Shore Volcanics. 
+This folder contains structural measuments from the Cut Face Creek sandstone, paleomagentic data developed from the Cut Face Sandstone and compiled paleomagnetic data from the North Shore Volcanics. 
 
 
 
