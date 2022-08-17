@@ -19,11 +19,11 @@ Van-Hinsbergen2007_1,Ag. Giorgios & Monolithos,palustrine and lacustrine sedimen
 Van-Hinsbergen2007_2,Kefala & Aspropetres,palustrine and lacustrine sediments,0.59,0.37,0.89,"Van Hinsbergen et al., 2007",magnetite,EI,75
 Tauxe2008,Nacimiento,claystones and siltstones,0.84,0.5,1.01,"Tauxe et al., 2008",hematite,EI,102
 Haldan2009_1,Dome de Barrot,red mudstone and purple siltstone,0.9,0.79,1.03,"Haldan et al., 2009",hematite,EI,411
-Haldan2009_2,Lodeve (Kungurian – Wordian),red siltstones and calcareous siltstone,0.78,0.37,1.0,"Haldan et al., 2009",mixed,EI,146
+Haldan2009_2,Lodeve (Kungurian – Wordian),red siltstones and calcareous siltstone,0.78,0.37,1,"Haldan et al., 2009",mixed,EI,146
 Haldan2009_3,Lodeve (Sakmarian-Artinskian),red siltstones and calcareous siltstone,0.83,0.63,1.16,"Haldan et al., 2009",mixed,EI,143
 Costa2009,Artes,red beds,0.58,0.42,0.77,"Costa et al., 2009",mixed,EI,221
-Meijers2010,TA5,turbiditic volcanoclastics,0.94,0.68,1.0,"Meijers et al., 2010",magnetite,EI,115
-Dupont2010_1,Ctg‐Xsh,red beds,0.78,0.51,1.0,"Dupont-Nivet et al., 2010",mixed,EI,95
+Meijers2010,TA5,turbiditic volcanoclastics,0.94,0.68,1,"Meijers et al., 2010",magnetite,EI,115
+Dupont2010_1,Ctg‐Xsh,red beds,0.78,0.51,1,"Dupont-Nivet et al., 2010",mixed,EI,95
 Dupont2010_2,Xiejia,red beds,0.9,0.72,1.04,"Dupont-Nivet et al., 2010",mixed,EI,185
 Dupont2010_3,Mahalagou,red beds,0.68,0.54,0.78,"Dupont-Nivet et al., 2010",mixed,EI,228
 Tan2010,Shexing,red beds,0.48,0.44,0.52,"Tan et al., 2010",hematite,EI,377
@@ -62,7 +62,7 @@ Kodama1997,Nacimiento,claystones and shaless and siltstones and sandstones,0.79,
 Tan1998_1,Ladd,claystones and shaless and siltstones and sandstones,0.65,,,"Tan and Kodama, 1998",magnetite,anisotropy,
 Tan1998_2,Point Loma,claystones and shaless and siltstones and sandstones,0.56,,,"Tan and Kodama, 1998",magnetite,anisotropy,
 Li2001,Valle,sandstone,0.69,,,"Li et al., 2001",magnetite,anisotropy,
-Tan2003,Kapusaliang,red beds,0.43,,,"Tan and Kodama, 2003",hematite,anisotropy,
+Tan2003,Kapusaliang,red beds,0.43,,,"Tan et al., 2003",hematite,anisotropy,
 Kim2004,Nanaimo,marine mud- and sandstones,0.7,,,"Kim and Kodama, 2004",magnetite,anisotropy,
 Vaughn2005,Perforada,interbedded mudstone and sandstone,0.67,,,"Vaughn et al., 2005",magnetite,anisotropy,
 Kodama2009,Glenshaw,limestone and siltstone,0.65,,,"Kodama, 2009",magnetite,anisotropy,
