@@ -9,6 +9,8 @@ James Pierce<sup>1, 2</sup>,  Yiming Zhang<sup>1</sup>, Eben B. Hodgin<sup>1</su
 <sup>1</sup>Department of Earth and Planetary Science, University of California, Berkeley, CA, USA
 <sup>2</sup>Department of Earth and Planetary Sciences, Yale University, New Haven, CT, USA
 
+This manuscript was submitted to G<sup>3</sup> on August 29, 2022.
+
 
 ## code
 
