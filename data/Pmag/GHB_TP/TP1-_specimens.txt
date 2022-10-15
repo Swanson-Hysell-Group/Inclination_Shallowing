@@ -1,6 +1,0 @@
-tab	specimens
-specimen	sample	analysts	citations	method_codes	volume	weight
-TP1-5b	TP1-5b	JP	This study	LP-NOMAG		
-TP1-6b	TP1-6b	JP	This study	LP-NOMAG		
-TP1-7b	TP1-7b	JP	This study	LP-NOMAG		
-TP1-9b	TP1-9b	JP	This study	LP-NOMAG		
